@@ -1,0 +1,641 @@
+,property Name,address,city,state,zip,neighborhood,link,walk,transit,bike,sound
+0,The Ivey on Boren,2019 Boren Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/the-ivey-on-boren-seattle-wa/738xtcx/,99,100,78,62
+1,Ascent South Lake Union,1145 Republican St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/ascent-south-lake-union-seattle-wa/gg967yx/,99,86,76,65
+2,Shoresmith,1170 Republican St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/shoresmith-seattle-wa/0px0ht1/,98,82,83,65
+3,Tower 12,2015 2nd Ave,Seattle,WA,98121,Pike Place Market,https://www.apartments.com/tower-12-seattle-wa/sx3e5w7/,98,100,61,63
+4,Onni South Lake Union,112 Boren Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/onni-south-lake-union-seattle-wa/m93gvph/,99,98,79,64
+5,Melody by Jabooda,2101 S Grand St,Seattle,WA,98144,North Beacon Hill,https://www.apartments.com/melody-by-jabooda-seattle-wa/gj0171w/,84,66,83,69
+6,999 Hiawatha,999 Hiawatha Place South,Seattle,WA,98144,Atlantic,https://www.apartments.com/999-hiawatha-seattle-wa/ymfxrvv/,82,71,90,68
+7,Capitol Hill Station,118 Broadway E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/capitol-hill-station-seattle-wa/4912xmk/,99,84,91,67
+8,BEAM,1029 S Jackson St,Seattle,WA,98104,Chinatown,https://www.apartments.com/beam-seattle-wa/bwdhwwb/,98,96,81,63
+9,Leilani Apartment Homes,10215 Greenwood Ave N,Seattle,WA,98133,Greenwood,https://www.apartments.com/leilani-apartment-homes-seattle-wa/nq961rp/,84,56,70,69
+10,Cubix at Othello Apartments,7339 43rd St S,Seattle,WA,98118,South Seattle,https://www.apartments.com/cubix-at-othello-apartments-seattle-wa/09sesz3/,88,66,82,71
+11,STAZIONE25,2615-2715 25th Ave S,Seattle,WA,98144,North Beacon Hill,https://www.apartments.com/stazione25-seattle-wa/t6gpln8/,80,73,62,73
+12,Sentral First Hill,1001 Minor Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/sentral-first-hill-seattle-wa/rwd8ec0/,98,99,93,65
+13,Airmark Apartments,229 Andover Park E,Seattle,WA,98188,Tukwila Urban Center,https://www.apartments.com/airmark-apartments-seattle-wa/qrmphlw/,60,50,67,71
+14,Sentral SLU,1212 Harrison St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/sentral-slu-seattle-wa/53ysvvn/,98,83,86,65
+15,Montclair Apartments,4727 12th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/montclair-apartments-seattle-wa/hf63dv2/,98,84,95,65
+16,The Waverly,210 8th Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/the-waverly-seattle-wa/pfdbj8s/,97,89,78,65
+17,Springline,3220 California Ave SW,Seattle,WA,98116,North Admiral,https://www.apartments.com/springline-seattle-wa/1kmqnv5/,89,44,69,74
+18,The Olivian,809 Olive Way,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/the-olivian-seattle-wa/srj9ny6/,99,100,78,61
+19,Met Tower,1942-1942 Westlake Ave,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/met-tower-seattle-wa/qjgvn6y/,99,100,80,61
+20,Alexan 100,100 Denny Way,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/alexan-100-seattle-wa/05exse0/,93,76,66,68
+21,Helm,602 Terry Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/helm-seattle-wa/5r5yjgm/,96,82,86,65
+22,Alta Arlo,4720 Rainier Ave S,Seattle,WA,98118,Columbia City,https://www.apartments.com/alta-arlo-seattle-wa/g8e83wz/,95,61,83,69
+23,Broadstone Vin,4106 N Stone Way,Seattle,WA,98103,Wallingford,https://www.apartments.com/broadstone-vin-seattle-wa/wss2s7l/,92,61,78,74
+24,Mera,630 Boren Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/mera-seattle-wa/mb7682j/,97,81,80,66
+25,Marlowe,1146 Harrison St,Seattle,WA,98121,South Lake Union,https://www.apartments.com/marlowe-seattle-wa/7n52vsx/,99,85,83,65
+26,McKenzie,2202 Eighth Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/mckenzie-seattle-wa/tc4dx7b/,99,100,77,62
+27,Malloy Apartment Homes,4337 15th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/malloy-apartment-homes-seattle-wa/f7vv06v/,99,85,85,69
+28,Edwards on Fifth,2613-2619 5th Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/edwards-on-fifth-seattle-wa/ljmqv2d/,99,97,86,62
+29,Batik Apartments,123 Broadway,Seattle,WA,98122,First Hill,https://www.apartments.com/batik-apartments-seattle-wa/5kpgz8n/,94,100,71,66
+30,Kinects Tower,1823 Minor Ave,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/kinects-tower-seattle-wa/59r318n/,98,99,80,62
+31,Kiara,111 Terry Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/kiara-seattle-wa/edmmh6n/,99,99,75,64
+32,The LeeAnn,701 5th Ave N,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/the-leeann-seattle-wa/65vf8st/,96,82,88,65
+33,AMLI Arc,1800 Boren Ave,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/amli-arc-seattle-wa/1yf8vx5/,99,100,74,61
+34,Modera Broadway,1812 Broadway,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/modera-broadway-seattle-wa/s4djne4/,99,86,89,68
+35,Luxe at Meridian,10306 Meridian Ave N,Seattle,WA,98133,North Seattle,https://www.apartments.com/luxe-at-meridian-seattle-wa/9qwrlb5/,69,72,80,68
+36,Zig,550 Broadway,Seattle,WA,98122,Minor,https://www.apartments.com/zig-seattle-wa/tglsxzc/,95,96,88,67
+37,REN,2014 Fairview Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/ren-seattle-wa/6g8h8hr/,99,98,83,63
+38,Griffis Seattle Waterfront,888 Western Ave,Seattle,WA,98104,Downtown Seattle,https://www.apartments.com/griffis-seattle-waterfront-seattle-wa/ntbsfrm/,98,100,83,66
+39,Vantage Park Apartments,1011 E Terrace St,Seattle,WA,98122,Minor,https://www.apartments.com/vantage-park-apartments-seattle-wa/7xrt90z/,94,95,75,69
+40,AVA Capitol Hill,1530 Belmont Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/ava-capitol-hill-seattle-wa/5whybzq/,100,94,79,63
+41,Zindorf,714 7th Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/zindorf-seattle-wa/cmkvh2e/,98,100,67,62
+42,Elan 41,4100 SW Edmunds St SW,Seattle,WA,98116,Junction,https://www.apartments.com/elan-41-seattle-wa/84egbw0/,98,52,50,70
+43,Leeward,1301 Dexter Ave,Seattle,WA,98109,Lake Union,https://www.apartments.com/leeward-seattle-wa/yqyql2t/,77,74,72,70
+44,Ellie Passivhaus,320 Queen Anne Ave N,Seattle,WA,98109,Queen Anne,https://www.apartments.com/ellie-passivhaus-seattle-wa/cyc038g/,96,72,81,70
+45,Sitka,1255 Harrison St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/sitka-seattle-wa/5235n3m/,97,84,84,64
+46,AMLI Mark24,2428 NW Market St,Seattle,WA,98107,Ballard,https://www.apartments.com/amli-mark24-seattle-wa/twk16f9/,97,52,98,68
+47,Avanti,1401 Boren Ave,Seattle,WA,98101,First Hill,https://www.apartments.com/avanti-seattle-wa/s0dekb4/,99,100,72,61
+48,Lane,10720 5th Ave NE,Seattle,WA,98125,Maple Leaf,https://www.apartments.com/lane-seattle-wa/s7wg576/,92,70,69,69
+49,Rivet Apartments,1201 Mercer St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/rivet-apartments-seattle-wa/ye5ck9r/,97,82,85,66
+50,Vive,1516 NW 51st St,Seattle,WA,98107,Ballard,https://www.apartments.com/vive-seattle-wa/2nhksx8/,94,54,98,61
+51,Saxton,520 Terry Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/saxton-seattle-wa/zsf985y/,96,100,94,65
+52,Row on Third,11301 3rd Ave NE,Seattle,WA,98125,Pinehurst,https://www.apartments.com/row-on-third-seattle-wa/vbyyv8e/,89,66,77,68
+53,Helios,1600 2nd Ave,Seattle,WA,98101,Downtown Seattle,https://www.apartments.com/helios-seattle-wa/qb5scwx/,99,100,77,62
+54,AMLI South Lake Union,1260 Republican St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/amli-south-lake-union-seattle-wa/wec85fk/,96,82,81,64
+55,Mark on 8th,285 8th Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/mark-on-8th-seattle-wa/j0fwr05/,97,89,78,66
+56,Center Steps,225 Roy St,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/center-steps-seattle-wa/j2gln57/,97,79,88,68
+57,Premiere on Pine,1525 9th Ave,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/premiere-on-pine-seattle-wa/rzcc5x1/,99,100,81,59
+58,Odin,5398 Russell Ave NW,Seattle,WA,98107,Ballard,https://www.apartments.com/odin-seattle-wa/lqkg86d/,97,54,94,69
+59,Olympus,2801 Western Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/olympus-seattle-wa/vyeqn7d/,95,89,75,68
+60,CityLine,4740 32nd Ave S,Seattle,WA,98118,Columbia City,https://www.apartments.com/cityline-seattle-wa/l4knj3g/,92,65,72,72
+61,Cosmopolitan,400 NE 45th St,Seattle,WA,98105,Wallingford,https://www.apartments.com/cosmopolitan-seattle-wa/y8knpdr/,91,81,83,61
+62,Avalon Belltown Towers,210 Wall St,Seattle,WA,98121,Belltown,https://www.apartments.com/avalon-belltown-towers-seattle-wa/lqg6zxd/,99,99,78,62
+63,Broadstone Sky,4745 40th Ave,Seattle,WA,98116,Genesee,https://www.apartments.com/broadstone-sky-seattle-wa/nhhmrdp/,97,52,55,69
+64,Metropolitan Park,601 S Washington St,Seattle,WA,98104,Chinatown,https://www.apartments.com/metropolitan-park-seattle-wa/xxyj11n/,98,100,72,63
+65,The Blake Apartments,5020 California Ave SW,Seattle,WA,98136,Junction,https://www.apartments.com/the-blake-apartments-seattle-wa/mtjmxvl/,92,51,63,74
+66,Griffis Belltown,2400 ELLIOTT Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/griffis-belltown-seattle-wa/wp85ysj/,97,98,76,63
+67,Charbern Apartment Homes,1705 Belmont Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/charbern-apartment-homes-seattle-wa/xhwycjn/,99,95,74,65
+68,EdgePoint,320 N 85th St,Seattle,WA,98103,Greenwood,https://www.apartments.com/edgepoint-seattle-wa/h7wj141/,93,53,90,70
+69,Cascade,221 Minor Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/cascade-seattle-wa/pwl4xcr/,99,85,66,
+70,True North,801 Dexter Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/true-north-seattle-wa/cmr2y9e/,88,81,88,66
+71,The Kennedy Building,907 NE 45th St,Seattle,WA,98105,University District,https://www.apartments.com/the-kennedy-building-seattle-wa/fd6hspr/,97,85,88,62
+72,Via 6,2121 6th Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/via-6-seattle-wa/kcfv0lc/,99,100,77,64
+73,Centennial Tower and Court,2515 4th Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/centennial-tower-and-court-seattle-wa/49dmkrl/,99,97,86,62
+74,Infinity Apartments,1414 10th Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/infinity-apartments-seattle-wa/yszd59t/,100,87,90,68
+75,Harbor Steps,1221 1st Ave,Seattle,WA,98101,Downtown Seattle,https://www.apartments.com/harbor-steps-seattle-wa/f2k13cs/,98,100,76,63
+76,Oakwood Residence Seattle South Lake Union,717 N Dexter Ave,Seattle,WA,98109,South Lake Union,https://www.apartments.com/oakwood-residence-seattle-south-lake-union-seattle-wa/995kg24/,88,81,88,64
+77,Cyrene,50 University St,Seattle,WA,98101,Downtown Seattle,https://www.apartments.com/cyrene-seattle-wa/ykgx3qr/,98,100,83,63
+78,Maris,4722 Fauntleroy Way SW,Seattle,WA,98116,Fairmount Park,https://www.apartments.com/maris-seattle-wa/cp18f9d/,93,52,50,68
+79,Vertex Off Broadway,802 E Thomas St,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/vertex-off-broadway-seattle-wa/c5t177e/,99,80,91,66
+80,Cypress,120 Broadway,Seattle,WA,98122,First Hill,https://www.apartments.com/cypress-seattle-wa/pv15ezr/,94,100,71,67
+81,Overlook at Magnolia,3520 27th Pl W,Seattle,WA,98199,Lawton Park,https://www.apartments.com/overlook-at-magnolia-seattle-wa/pmzb5pv/,52,43,46,80
+82,Aura West Seattle,4435 35th Ave SW,Seattle,WA,98126,Fairmount Park,https://www.apartments.com/aura-west-seattle-seattle-wa/pns15wr/,85,55,60,68
+83,East Howe Steps,1823 Eastlake Ave E,Seattle,WA,98102,Eastlake,https://www.apartments.com/east-howe-steps-seattle-wa/dgnwmfj/,78,59,88,66
+84,HANA Apartments,101 6th Ave S,Seattle,WA,98104,Pioneer Square,https://www.apartments.com/hana-apartments-seattle-wa/8mhszb0/,98,100,75,63
+85,Arista,4715 25th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/arista-seattle-wa/npgvxlq/,90,77,99,72
+86,Jackson Apartments,2401 S Jackson St,Seattle,WA,98144,Atlantic,https://www.apartments.com/jackson-apartments-seattle-wa/vblnwkf/,91,67,92,72
+87,Garden Pointe,130 SW 112th St,Seattle,WA,98146,Highline,https://www.apartments.com/garden-pointe-seattle-wa/n3e96pq/,43,46,73,
+88,Maude Urban Living,836 NE 67th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/maude-urban-living-seattle-wa/kx2eyyc/,95,68,85,62
+89,Lightbox,4545 8th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/lightbox-seattle-wa/np3qvbp/,95,83,87,64
+90,Park South,10102 8th Ave S,Seattle,WA,98168,Southern Heights-Boulevard Park,https://www.apartments.com/park-south-seattle-wa/39gy0kf/,35,14,73,
+91,Novo Seattle,6105 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,https://www.apartments.com/novo-seattle-seattle-wa/nrb0ttm/,97,68,96,64
+92,Filipino Community Village - MOVE-IN SPECIAL!,5727 37th Ave S,Seattle,WA,98118,Columbia City,https://www.apartments.com/filipino-community-village-move-in-special-seattle-wa/fndfh9t/,91,55,73,71
+93,The Accolade,4126 12th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/the-accolade-seattle-wa/7lspshx/,99,85,81,67
+94,The Mill at First Hill,1000 8th Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/the-mill-at-first-hill-seattle-wa/3z5s8mg/,98,100,67,62
+95,Sedona Apartments,8500 20th Ave NE,Seattle,WA,98115,Wedgewood,https://www.apartments.com/sedona-apartments-seattle-wa/ch0j5kf/,69,52,91,70
+96,Executive Estates,1227 NE 143rd St,Seattle,WA,98125,Lake City,https://www.apartments.com/executive-estates-seattle-wa/2vnlp78/,55,46,58,75
+97,The Current,15560 Westminster Way N,Shoreline,WA,98133,Shoreline,https://www.apartments.com/the-current-shoreline-wa/s6grkf5/,85,51,80,63
+98,LUNA,2745 California Ave SW,Seattle,WA,98116,North Admiral,https://www.apartments.com/luna-seattle-wa/yey9vtr/,91,41,65,70
+99,Kirin Apartments,417 2nd Ave W,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/kirin-apartments-seattle-wa/v1vkvvd/,92,69,74,72
+100,700 Broadway Apartments,700 Broadway Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/700-broadway-apartments-seattle-wa/09hhwk1/,97,76,93,67
+101,CC Apartments,701 16th Ave,Seattle,WA,98122,Minor,https://www.apartments.com/cc-apartments-seattle-wa/w438gvl/,85,73,87,71
+102,St. James Tower,920 N 34th St,Seattle,WA,98103,Fremont,https://www.apartments.com/st-james-tower-seattle-wa/l0k2dve/,95,60,99,71
+103,The Danforth,1425 Spring St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/the-danforth-seattle-wa/v75401g/,99,91,80,65
+104,West Edge,1430 2nd Ave,Seattle,WA,98101,Downtown Seattle,https://www.apartments.com/west-edge-seattle-wa/w36yefj/,99,100,60,60
+105,Derby SLU,1210 Republican St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/derby-slu-seattle-wa/xyy1rmn/,97,82,85,65
+106,Excelsior,1535 Bellevue Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/excelsior-seattle-wa/sd54b15/,99,100,66,61
+107,Lucille on Roosevelt,6717 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,https://www.apartments.com/lucille-on-roosevelt-seattle-wa/jrtty95/,96,69,94,62
+108,Oslo,323 Bellevue Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/oslo-seattle-wa/wsgwnnj/,96,83,76,64
+109,Pratt Park Apartments,1800 S Jackson St,Seattle,WA,98144,Atlantic,https://www.apartments.com/pratt-park-apartments-seattle-wa/dflxsxk/,94,75,80,70
+110,Encore at Columbia Station,4689 Martin Luther King Jr Way S,Seattle,WA,98108,Columbia City,https://www.apartments.com/encore-at-columbia-station-seattle-wa/yz4hdts/,87,65,75,68
+111,Joseph Arnold Lofts,62 Cedar St,Seattle,WA,98121,Belltown,https://www.apartments.com/joseph-arnold-lofts-seattle-wa/q2slmlw/,96,93,80,67
+112,REV Fremont,317 NW 41st St,Seattle,WA,98107,Fremont,https://www.apartments.com/rev-fremont-seattle-wa/p5tndjv/,89,64,86,71
+113,Spruce,4555 39th Ave SW,Seattle,WA,98116,Genesee,https://www.apartments.com/spruce-seattle-wa/4004bel/,95,52,70,67
+114,The Redwood,111 21st Ave E,Seattle,WA,98112,Stevens,https://www.apartments.com/the-redwood-seattle-wa/dfh6vqk/,90,66,96,72
+115,Orenda,3939 S Othello St,Seattle,WA,98118,Holly Park,https://www.apartments.com/orenda-seattle-wa/sh8ebj5/,88,66,84,70
+116,Highland Apartments,931 11th Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/highland-apartments-seattle-wa/dbbv9xk/,86,70,84,72
+117,Rollin Street Flats,120 Westlake Ave,Seattle,WA,98109,South Lake Union,https://www.apartments.com/rollin-street-flats-seattle-wa/hjg8c83/,99,99,79,63
+118,Augusta Apartments,4041 Roosevelt Way NE,Seattle,WA,98105,University District,https://www.apartments.com/augusta-apartments-seattle-wa/lbgnpjg/,94,84,76,66
+119,Angeline Apartments,4801 Rainier Ave S,Seattle,WA,98118,Columbia City,https://www.apartments.com/angeline-apartments-seattle-wa/66tvzer/,95,62,83,70
+120,Marq 211,211 Lenora St,Seattle,WA,98121,Seattle,https://www.apartments.com/marq-211-seattle-wa/66mq35t/,99,100,67,64
+121,Woodworth,1225 10th Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/woodworth-seattle-wa/z877cxw/,100,87,93,69
+122,Belmont Court Apartments,424 Belmont Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/belmont-court-apartments-seattle-wa/2cb151c/,98,80,84,67
+123,Gatsby Apartments,1145 10th Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/gatsby-apartments-seattle-wa/03jn6d0/,83,68,92,68
+124,MOD Apartments,6559 35th Ave NE,Seattle,WA,98115,Ravenna,https://www.apartments.com/mod-apartments-seattle-wa/5nl072q/,78,49,78,73
+125,Halmark & Hamrick,702-705 2nd Ave W,Seattle,WA,98104,Lower Queen Anne,https://www.apartments.com/halmark-hamrick-seattle-wa/gjtej8x/,93,66,86,72
+126,Chloe on Madison,1401-1409 E Madison St,Seattle,WA,98122,Minor,https://www.apartments.com/chloe-on-madison-seattle-wa/dzd7kkl/,99,78,84,68
+127,Coppins Well,1000 Minor Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/coppins-well-seattle-wa/fhknn4v/,99,97,86,65
+128,Union Park,1310 Minor Ave,Seattle,WA,98101,First Hill,https://www.apartments.com/union-park-seattle-wa/8jpe6c0/,99,100,83,63
+129,Guinevere Apartment Homes,522 N 85th St,Seattle,WA,98103,Ballard,https://www.apartments.com/guinevere-apartment-homes-seattle-wa/9zyy3f5/,89,52,91,70
+130,Marq West Seattle,3261 SW Avalon Way,Seattle,WA,98126,North Delridge,https://www.apartments.com/marq-west-seattle-seattle-wa/rqnp6r1/,81,55,70,70
+131,U Place,4609 Union Bay Pl NE,Seattle,WA,98105,University District,https://www.apartments.com/u-place-seattle-wa/6c04cst/,86,72,99,71
+132,East Union,Union St @ 23rd ave,Seattle,WA,98122,Minor,https://www.apartments.com/east-union-seattle-wa/8sbxhc0/,93,63,98,69
+133,Bowman,3801 Stone Way N,Seattle,WA,98103,Fremont,https://www.apartments.com/bowman-seattle-wa/3xvcwwe/,89,61,93,69
+134,The Shelby,2201 4th Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/the-shelby-seattle-wa/cd611cd/,99,100,81,62
+135,Roosevelt Station,6810 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,https://www.apartments.com/roosevelt-station-seattle-wa/kxfyl3b/,96,69,94,64
+136,Nine and Pine Apartments,1601 9th Ave,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/nine-and-pine-apartments-seattle-wa/ebf0nwn/,99,100,81,60
+137,One Lakefront,1287 Westlake Ave N,Seattle,WA,98109,Westlake,https://www.apartments.com/one-lakefront-seattle-wa/7yvbetw/,77,70,86,70
+138,M Street,910 8th Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/m-street-seattle-wa/r2e3h72/,98,100,69,63
+139,O2,2401 3rd Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/o2-seattle-wa/ynmvz1v/,99,100,83,61
+140,AVA Ballard,5555 14th Ave NW,Seattle,WA,98107,West Woodland,https://www.apartments.com/ava-ballard-seattle-wa/1en4zw7/,97,54,98,66
+141,Lighthouse Apartments,7901 Delridge Way SW,Seattle,WA,98106,South Delridge,https://www.apartments.com/lighthouse-apartments-seattle-wa/x2d837m/,46,52,53,75
+142,LEVA On Market,1545 NW Market St,Seattle,WA,98107,Ballard,https://www.apartments.com/leva-on-market-seattle-wa/qqn6e1z/,97,54,97,66
+143,Oregon 42,4502 42nd Ave SW,Seattle,WA,98116,Junction,https://www.apartments.com/oregon-42-seattle-wa/lw6g5pg/,98,52,58,69
+144,Chloe on Union,1408-1412 E Union St,Seattle,WA,98122,Minor,https://www.apartments.com/chloe-on-union-seattle-wa/dqwtp9k/,98,78,83,69
+145,Three20,320 E Pine St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/three20-seattle-wa/2czbqxc/,97,97,71,61
+146,Icon Apartments,400 S Jackson St,Seattle,WA,98104,Seattle,https://www.apartments.com/icon-apartments-seattle-wa/lkb3bvd/,98,100,87,65
+147,Helix Ellipse,4751 12th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/helix-ellipse-seattle-wa/p52l3rv/,98,84,65,
+148,Sidney,400 Wall St,Seattle,WA,98121,Belltown,https://www.apartments.com/sidney-seattle-wa/wnwrg5l/,99,99,85,60
+149,Aspira Apartments,1823 Terry Ave,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/aspira-apartments-seattle-wa/f2c4n0r/,100,100,78,63
+150,King Arthurs Court,12728 NE 28th Ave,Seattle,WA,98125,Lake City,https://www.apartments.com/king-arthurs-court-seattle-wa/j42xet4/,87,58,83,71
+151,The Whittaker,4755 Fauntleroy Way SW,Seattle,WA,98116,Genesee,https://www.apartments.com/the-whittaker-seattle-wa/p9bpgcr/,95,52,57,68
+152,AMLI Wallingford,1850 N 34th St,Seattle,WA,98103,Wallingford,https://www.apartments.com/amli-wallingford-seattle-wa/sk5j017/,71,58,89,72
+153,The Heights on Capitol Hill,130 Harvard Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/the-heights-on-capitol-hill-seattle-wa/xpk1vsq/,99,86,91,66
+154,The Summit at Lake Union,1735 Dexter Ave N,Seattle,WA,98109,Westlake,https://www.apartments.com/the-summit-at-lake-union-seattle-wa/l70dyjd/,71,68,72,71
+155,Summit At Madison Park,1819 23rd Ave,Seattle,WA,98122,Minor,https://www.apartments.com/summit-at-madison-park-seattle-wa/477y2vh/,90,65,97,70
+156,Axle,3230 16th Ave W,Seattle,WA,98119,Interbay,https://www.apartments.com/axle-seattle-wa/438lw4l/,75,52,88,64
+157,Seventh and James,600 7th Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/seventh-and-james-seattle-wa/x8ckjym/,97,100,69,62
+158,Anthem on 12th,103 12th Ave,Seattle,WA,98122,Minor,https://www.apartments.com/anthem-on-12th-seattle-wa/cm38mee/,95,96,85,66
+159,Circa Green Lake Apartments,6900 E Green Lake Way N,Seattle,WA,98115,Green Lake,https://www.apartments.com/circa-green-lake-apartments-seattle-wa/bwmn6x8/,95,64,88,67
+160,Neptune,912 Dexter Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/neptune-seattle-wa/dbk4zzk/,82,78,92,69
+161,Velo and Ray,3636 Stone Way N,Seattle,WA,98103,Wallingford,https://www.apartments.com/velo-and-ray-seattle-wa/h4x54t2/,89,57,94,73
+162,Stack House,1280 Harrison St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/stack-house-seattle-wa/r9splt0/,96,82,81,64
+163,The Eden Apartments,602-602 Galer St,Seattle,WA,98109,Queen Anne,https://www.apartments.com/the-eden-apartments-seattle-wa/0ssts93/,52,69,72,70
+164,Link,4550 38th Ave SW,Seattle,WA,98126,Fairmount Park,https://www.apartments.com/link-seattle-wa/fxs5z3t/,92,52,51,67
+165,Dexter Lake Union,1211-1215 Dexter Ave N,Seattle,WA,98109,Westlake,https://www.apartments.com/dexter-lake-union-seattle-wa/94bqjf6/,85,76,76,70
+166,Adell Apartments,4532 SW 42nd Ave,Seattle,WA,98116,West Seattle,https://www.apartments.com/adell-apartments-seattle-wa/d14ergl/,98,52,58,70
+167,Ivy Ridge,4730 21st Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/ivy-ridge-seattle-wa/wcyj04k/,86,81,83,74
+168,Brookstone,3231 S 204th St,Seattle,WA,98198,Seatac,https://www.apartments.com/brookstone-seattle-wa/5cbj7vn/,42,56,37,61
+169,Belgrove Court,1808 Bellevue Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/belgrove-court-seattle-wa/e1vjg6q/,99,95,77,63
+170,Promenade at the Park Apartment Homes,3215 NE 143rd St,Seattle,WA,98125,Lake City,https://www.apartments.com/promenade-at-the-park-apartment-homes-seattle-wa/c67n2xe/,64,50,78,71
+171,Centerline,1420 NE 65th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/centerline-seattle-wa/63dfd1v/,96,69,74,68
+172,Summit Flats at The Hill Collective,1103 Summit Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/summit-flats-at-the-hill-collective-seattle-wa/wxcn41k/,99,96,92,66
+173,8th + Republican,430 Eighth Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/8th-republican-seattle-wa/8mbpsq2/,96,86,87,66
+174,Dimension,225 Cedar St,Seattle,WA,98121,Belltown,https://www.apartments.com/dimension-seattle-wa/01kp2y3/,99,96,83,66
+175,Mosaic on Greenwood,13543 Greenwood Ave N,Seattle,WA,98133,Broadview,https://www.apartments.com/mosaic-on-greenwood-seattle-wa/yhm70ds/,65,48,63,73
+176,Willows Court Apartment Homes,12316 28th Ave NE,Seattle,WA,98125,Lake City,https://www.apartments.com/willows-court-apartment-homes-seattle-wa/0j92tn0/,88,58,67,71
+177,JUXT,810 Dexter Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/juxt-seattle-wa/zm47ytw/,90,81,91,67
+178,John Winthrop Apartments,1020 Seneca St,Seattle,WA,98101,First Hill,https://www.apartments.com/john-winthrop-apartments-seattle-wa/c886jld/,98,100,86,63
+179,Cielo,800 Seneca St,Seattle,WA,98101,First Hill,https://www.apartments.com/cielo-seattle-wa/teysb79/,98,100,75,61
+180,Bellevue Manor & Iliad,412 Bellevue Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/bellevue-manor-iliad-seattle-wa/ypxybpt/,96,83,76,65
+181,The Westside,801 E Thomas St,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/the-westside-seattle-wa/dp1ykdh/,99,80,91,66
+182,Orion,910 John St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/orion-seattle-wa/sjcjs87/,98,89,78,64
+183,Tellus on Dexter,403 Dexter Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/tellus-on-dexter-seattle-wa/2t6p4k8/,94,88,84,65
+184,Harrison Square,312 2nd Ave W,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/harrison-square-seattle-wa/kgz15p9/,92,69,72,
+185,Amesbury Court Apartments,13739 Linden Ave N,Seattle,WA,98133,Bitter Lake,https://www.apartments.com/amesbury-court-apartments-seattle-wa/2m1ych9/,72,51,69,72
+186,Westlake Steps,1207 Westlake Ave N,Seattle,WA,98109,Westlake,https://www.apartments.com/westlake-steps-seattle-wa/9wpsv97/,78,76,87,68
+187,Skye at Belltown,500 Wall St,Seattle,WA,98121,Belltown,https://www.apartments.com/skye-at-belltown-seattle-wa/cvvye8f/,99,99,85,59
+188,The Enclave,525 NE Northgate Way,Seattle,WA,98125,Maple Leaf,https://www.apartments.com/the-enclave-seattle-wa/d28m6wl/,93,66,70,68
+189,Maple Leaf Plaza,2021 NE 90th St,Seattle,WA,98115,Maple Leaf,https://www.apartments.com/maple-leaf-plaza-seattle-wa/ht15g72/,62,51,74,69
+190,Union SLU,905 Dexter Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/union-slu-seattle-wa/vk13mkg/,89,78,87,69
+191,Theory U District,4735 15th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/theory-u-district-seattle-wa/gd2xwbw/,99,84,90,69
+192,Modera South Lake Union,435 Dexter Ave N,Seattle,WA,98109,Seattle,https://www.apartments.com/modera-south-lake-union-seattle-wa/mdyqhmj/,94,86,84,64
+193,Willow Court Apartments,6901 Delridge Way SW,Seattle,WA,98106,High Point,https://www.apartments.com/willow-court-apartments-seattle-wa/hretqj0/,41,47,65,73
+194,TraVigne on Eleventh Avenue,4726 11th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/travigne-on-eleventh-avenue-seattle-wa/9ncjl47/,98,84,95,66
+195,Cedar Park Senior Affordable Apartments,12740 30th Ave NE,Seattle,WA,98125,Lake City,https://www.apartments.com/cedar-park-senior-affordable-apartments-seattle-wa/gngssvw/,89,57,83,71
+196,Quintessa Apartments,201 Yesler Way,Seattle,WA,98104,Pioneer Square,https://www.apartments.com/quintessa-apartments-seattle-wa/fwdr4rt/,98,100,82,66
+197,Midtown Square,2301 E Union St,Seattle,WA,98122,Mann,https://www.apartments.com/midtown-square-seattle-wa/jkm2814/,93,63,98,71
+198,Theo,815 NE 66th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/theo-seattle-wa/qt5qr9w/,97,68,98,62
+199,Kulle Urban Living,1815 Bellevue Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/kulle-urban-living-seattle-wa/2lnd318/,99,95,73,63
+200,Washington Terrace Senior Affordable Apart...,120 6th Ave S,Seattle,WA,98104,Pioneer Square,https://www.apartments.com/washington-terrace-senior-affordable-apart-seattle-wa/1t52ye5/,98,100,68,62
+201,Iron Flats,828 NE 66th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/iron-flats-seattle-wa/dn77lzl/,95,59,93,62
+202,Avalon Micro Studios,3268 SW Avalon Way,Seattle,WA,98126,Fairmount Park,https://www.apartments.com/avalon-micro-studios-seattle-wa/k0811y9/,87,55,67,69
+203,Hillview,12825 60th Ln S,Seattle,WA,98178,Bryn Mawr-Skyway,https://www.apartments.com/hillview-seattle-wa/v1ymrdf/,30,27,68,
+204,THAI BINH APARTMENTS,913 S Jackson St,Seattle,WA,98104,Chinatown,https://www.apartments.com/thai-binh-apartments-seattle-wa/cp71zlf/,98,100,83,62
+205,Coronado Springs,1400 SW 107th St,Seattle,WA,98146,White Center,https://www.apartments.com/coronado-springs-seattle-wa/yv94tct/,62,58,74,
+206,Polaris at Rainier Beach,9400 Rainier Ave S,Seattle,WA,98118,Dunlap,https://www.apartments.com/polaris-at-rainier-beach-seattle-wa/s19sfl7/,79,49,56,70
+207,TRESSA,14200 Linden Ave N,Seattle,WA,98133,Bitter Lake,https://www.apartments.com/tressa-seattle-wa/g8xtqcx/,76,52,78,71
+208,Axis,123 2nd Ave N,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/axis-seattle-wa/8j6c370/,94,86,71,69
+209,REO Flats,1525 14th Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/reo-flats-seattle-wa/psbf27v/,99,78,85,66
+210,Parla,9176 Holman Rd NW,Seattle,WA,98117,Crown Hill,https://www.apartments.com/parla-seattle-wa/dh0qy5j/,82,53,72,72
+211,Maison Royale Apartments,4529 44th Ave SW,Seattle,WA,98116,Junction,https://www.apartments.com/maison-royale-apartments-seattle-wa/bx5cxw8/,97,51,71,71
+212,Sunset Electric,1111 E Pine St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/sunset-electric-seattle-wa/n36rghn/,100,83,87,67
+213,ELLIOTT BAYVIEW APARTMENTS,151 John St,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/elliott-bayview-apartments-seattle-wa/q12l5sy/,94,86,67,68
+214,Janus Apartments,121 NW 85th St,Seattle,WA,98117,Greenwood,https://www.apartments.com/janus-apartments-seattle-wa/fbcqkwr/,93,53,88,70
+215,The Cavanaugh,3539 27th Pl W,Seattle,WA,98199,Lawton Park,https://www.apartments.com/the-cavanaugh-seattle-wa/33z196e/,52,43,46,80
+216,Green Lake Village,427 NE 72nd St,Seattle,WA,98115,Green Lake,https://www.apartments.com/green-lake-village-seattle-wa/dv08thk/,95,66,95,64
+217,June on South Lake,1622 Aurora Ave N,Seattle,WA,98109,Lake Union,https://www.apartments.com/june-on-south-lake-seattle-wa/jvnjws4/,74,69,72,70
+218,Alto,311 Cedar St,Seattle,WA,98121,Belltown,https://www.apartments.com/alto-seattle-wa/35y5bce/,99,96,83,66
+219,ArtHouse,2334 Elliott Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/arthouse-seattle-wa/dgwn88h/,97,99,62,63
+220,Beryl Apartments,1200 E Pike St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/beryl-apartments-seattle-wa/q1swe6x/,99,80,86,67
+221,Holden Court,931 SW Holden St,Seattle,WA,98106,Highland Park,https://www.apartments.com/holden-court-seattle-wa/jqxphd5/,57,45,51,75
+222,Epicenter,620 N 34th St,Seattle,WA,98103,Fremont,https://www.apartments.com/epicenter-seattle-wa/j3dvz74/,98,61,92,68
+223,Mercer Crest Apartments,500 W Mercer St,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/mercer-crest-apartments-seattle-wa/mfh653j/,84,61,70,71
+224,1421 & 1418 on Queen Anne,1421 2nd Ave N,Seattle,WA,98109,Queen Anne,https://www.apartments.com/1421-1418-on-queen-anne-seattle-wa/21vznjc/,87,70,53,74
+225,Greenwood Place Apartments,14307 Greenwood Ave N,Seattle,WA,98133,Broadview,https://www.apartments.com/greenwood-place-apartments-seattle-wa/xdm7kgp/,59,49,49,69
+226,The Savoy at Lake City,13730 Lake City Way NE,Seattle,WA,98125,Lake City,https://www.apartments.com/the-savoy-at-lake-city-seattle-wa/9xfx7r4/,70,53,69,69
+227,Vitality on 17th,5512 17th Ave NW,Seattle,WA,98107,Ballard,https://www.apartments.com/vitality-on-17th-seattle-wa/tbbrrdb/,97,54,96,66
+228,HERE Seattle Student Apartments,4732 Brooklyn Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/here-seattle-student-apartments-seattle-wa/vfbbrnf/,99,84,95,65
+229,Crew Apartments,8228 Green Lake Dr N,Seattle,WA,98103,Green Lake,https://www.apartments.com/crew-apartments-seattle-wa/84kgh33/,86,55,82,71
+230,Mayn Suites,315 Maynard Ave S,Seattle,WA,98104,Chinatown,https://www.apartments.com/mayn-suites-seattle-wa/53s506p/,99,100,84,62
+231,Sorento Flats,1414 E Yesler Way,Seattle,WA,98122,Minor,https://www.apartments.com/sorento-flats-seattle-wa/bfnjskb/,92,87,84,70
+232,Gregory Gene Apartments,1500 E Cherry St,Seattle,WA,98122,Minor,https://www.apartments.com/gregory-gene-apartments-seattle-wa/hmq41n0/,88,77,84,71
+233,EMERALD PLACE,13437 Greenwood Ave N,Seattle,WA,98133,Bitter Lake,https://www.apartments.com/emerald-place-seattle-wa/b7f0fv8/,57,48,63,73
+234,4400 Alaska,4400 SW Alaska St,Seattle,WA,98116,Junction,https://www.apartments.com/4400-alaska-seattle-wa/3ht18me/,97,51,71,71
+235,Cambridge Park Villa,6801 S 133rd St,Seattle,WA,98178,Bryn Mawr-Skyway,https://www.apartments.com/cambridge-park-villa-seattle-wa/0wnvy13/,21,6,73,
+236,Alki 12 & 5630,3036-3040 60th Ave SW,Seattle,WA,98116,Alki,https://www.apartments.com/alki-12-5630-seattle-wa/3qcym1d/,63,34,69,73
+237,Balfour Place,1820 Minor Ave,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/balfour-place-seattle-wa/hrqzpe1/,98,99,80,62
+238,Sheridan Beach Terrace,15530 Bothell Way NE,Lake Forest Park,WA,98155,Sheridan Beach,https://www.apartments.com/sheridan-beach-terrace-lake-forest-park-wa/yt6f2ms/,33,57,75,
+239,The Cedars,2615 1st Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/the-cedars-seattle-wa/0q3v1h2/,98,95,63,66
+240,Stratus,820 Lenora St,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/stratus-seattle-wa/11r6ep5/,100,100,75,59
+241,509 1st Ave W,509 1st Ave W,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/509-1st-ave-w-seattle-wa/h7h76k2/,96,70,79,69
+242,19th & Mercer,526 19th Ave E,Seattle,WA,98112,Stevens,https://www.apartments.com/19th-mercer-seattle-wa/c39sm0d/,92,63,94,73
+243,4730 California,4730 California Ave SW,Seattle,WA,98116,Junction,https://www.apartments.com/4730-california-seattle-wa/frvvjxr/,98,51,56,71
+244,Prism,10711 8th Ave NE,Seattle,WA,98125,Maple Leaf,https://www.apartments.com/prism-seattle-wa/x9v2zem/,92,70,70,71
+245,Carolina Court Apartment Homes,527 Eastlake Ave,Seattle,WA,98109,South Lake Union,https://www.apartments.com/carolina-court-apartment-homes-seattle-wa/pepz1js/,95,82,71,58
+246,Keelson Ballard,1537 NW 56TH St,Seattle,WA,98107,Ballard,https://www.apartments.com/keelson-ballard-seattle-wa/10k94k7/,97,54,97,66
+247,Rianna,810 12th Ave,Seattle,WA,98122,Minor,https://www.apartments.com/rianna-seattle-wa/vbs52re/,93,84,95,70
+248,50th & Roosevelt,4750 Roosevelt Way NE,Seattle,WA,98105,University District,https://www.apartments.com/50th-roosevelt-seattle-wa/nrnk99p/,98,84,92,64
+249,Pike Flats at The Hill Collective,722 E Pike St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/pike-flats-at-the-hill-collective-seattle-wa/zep5k7x/,100,92,87,65
+250,The Martin,2105 5th Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/the-martin-seattle-wa/2v0jy28/,99,100,78,63
+251,Astro Apartments,315 1st Ave N,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/astro-apartments-seattle-wa/zlt3kyz/,96,72,81,68
+252,Uwajimaya Village,521 S Weller St,Seattle,WA,98104,Chinatown,https://www.apartments.com/uwajimaya-village-seattle-wa/3f2q02f/,98,100,92,64
+253,80 MAIN Apartments,80 S Main St,Seattle,WA,98104,Pioneer Square,https://www.apartments.com/80-main-apartments-seattle-wa/8ydktb3/,96,100,89,66
+254,Citizen,1222 E Madison St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/citizen-seattle-wa/vqv4lee/,99,81,86,65
+255,Ballard Lofts,6450 24th Ave NW,Seattle,WA,98107,Ballard,https://www.apartments.com/ballard-lofts-seattle-wa/ln4hnze/,85,45,90,74
+256,Cirrus,2030 8th Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/cirrus-seattle-wa/5dqy53m/,100,100,78,60
+257,The Loop at Green Lake,407 NE 73rd St,Seattle,WA,98115,Seattle,https://www.apartments.com/the-loop-at-green-lake-seattle-wa/742mryz/,94,65,97,65
+258,Panorama Apartments,1100 University St,Seattle,WA,98101,First Hill,https://www.apartments.com/panorama-apartments-seattle-wa/5em0kwq/,98,100,86,64
+259,The Cornelius Apartments,306 Blanchard St,Seattle,WA,98121,Belltown,https://www.apartments.com/the-cornelius-apartments-seattle-wa/7tb4k0x/,99,100,81,63
+260,306 Queen Anne,306 Queen Anne Ave N,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/306-queen-anne-seattle-wa/q1y7stx/,96,72,81,70
+261,The Marlborough,1220 Boren Ave,Seattle,WA,98101,First Hill,https://www.apartments.com/the-marlborough-seattle-wa/8m5h781/,98,100,83,64
+262,Uptown 11,11 W Mercer St,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/uptown-11-seattle-wa/vn651wf/,97,70,87,68
+263,LaVie at Queen Anne,229 Queen Anne Ave,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/lavie-at-queen-anne-seattle-wa/vyr43fe/,94,73,73,70
+264,Solara,12736 Lake City Way NE,Seattle,WA,98125,Lake City,https://www.apartments.com/solara-seattle-wa/02q9g91/,89,57,77,71
+265,Elliott Pointe Apartments,2226 Elliott Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/elliott-pointe-apartments-seattle-wa/g0wwkhz/,97,100,86,62
+266,2900 On First,2900 1st Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/2900-on-first-seattle-wa/6bc5xqv/,95,88,65,67
+267,Metro on First,215 1st Ave W,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/metro-on-first-seattle-wa/ycyc6kv/,92,72,75,72
+268,The Nelson,14300 Greenwood Ave N,Seattle,WA,98133,Bitter Lake,https://www.apartments.com/the-nelson-seattle-wa/99x4g96/,62,50,56,72
+269,Cubix Northgate,1307 N Northgate Way,Seattle,WA,98133,North College Park,https://www.apartments.com/cubix-northgate-seattle-wa/zq1j5my/,88,68,66,72
+270,Belay Apartments,6559 15th Ave NW,Seattle,WA,98117,Loyal Heights,https://www.apartments.com/belay-apartments-seattle-wa/6j25nht/,90,47,89,68
+271,Gilbert House Apartments,1529 Queen Anne N,Seattle,WA,98109,Queen Anne,https://www.apartments.com/gilbert-house-apartments-seattle-wa/n08fd0m/,94,61,48,70
+272,Charbonneau Apartments,1201 Boylston Ave,Seattle,WA,98101,First Hill,https://www.apartments.com/charbonneau-apartments-seattle-wa/n0m0h0n/,100,95,91,66
+273,Montisi,4122 36th Ave SW,Seattle,WA,98126,West Seattle,https://www.apartments.com/montisi-seattle-wa/wjlzszj/,89,52,67,68
+274,ORI ON THE AVE,5260 University Way NE,Seattle,WA,98105,University District,https://www.apartments.com/ori-on-the-ave-seattle-wa/dys23mh/,97,78,93,69
+275,Cubix - 95,714 N 95th St,Seattle,WA,98103,Greenwood,https://www.apartments.com/cubix-95-seattle-wa/f2r8fks/,80,56,79,74
+276,The Flats at Interbay,3036 16th Ave W,Seattle,WA,98119,Seattle,https://www.apartments.com/the-flats-at-interbay-seattle-wa/lkbxh1e/,73,53,87,65
+277,Metroline Flats,915 E Spruce St,Seattle,WA,98104,First Hill,https://www.apartments.com/metroline-flats-seattle-wa/lk3v29g/,94,98,80,65
+278,2300 Elliott,2300 Elliott Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/2300-elliott-seattle-wa/4n7xxvh/,97,99,76,62
+279,Villa Andora,1520 California Ave SW,Seattle,WA,98116,North Admiral,https://www.apartments.com/villa-andora-seattle-wa/szr0eh4/,69,36,84,75
+280,AVA Queen Anne,330 3rd Ave,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/ava-queen-anne-seattle-wa/xzw3r1m/,88,68,88,71
+281,Vesper,1321-1323 Minor Ave,Seattle,WA,98101,First Hill,https://www.apartments.com/vesper-seattle-wa/9yt2vy6/,99,100,83,62
+282,Viktoria,1915 2nd Ave,Seattle,WA,98101,Pike Place Market,https://www.apartments.com/viktoria-seattle-wa/vhsqwbf/,99,100,61,63
+283,Upton Flats,3490 SW Graham St,Seattle,WA,98126,High Point,https://www.apartments.com/upton-flats-seattle-wa/j4k39z4/,71,50,66,75
+284,Marketside Flats,84 Union St,Seattle,WA,98101,Pike Place Market,https://www.apartments.com/marketside-flats-seattle-wa/qzz66cx/,98,100,68,63
+285,Session Apartments,1222 E Madison St,Seattle,WA,98122,Minor,https://www.apartments.com/session-apartments-seattle-wa/z4zj6qx/,90,65,97,70
+286,Fox and Finch,525 Boren Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/fox-and-finch-seattle-wa/2vfz449/,98,84,72,65
+287,Viva,1111 E Union St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/viva-seattle-wa/h47dk02/,100,84,94,67
+288,The Wilcox,2003 NW 57th St,Seattle,WA,98107,Ballard,https://www.apartments.com/the-wilcox-seattle-wa/06gzr13/,98,53,97,71
+289,Taylor 28,100 Taylor Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/taylor-28-seattle-wa/z14p66x/,98,97,84,63
+290,6040 Cali Apartments,6040 California Ave SW,Seattle,WA,98136,Fairmount Park,https://www.apartments.com/6040-cali-apartments-seattle-wa/4zz5tzl/,82,48,74,74
+291,The Audrey at Belltown,2922 Western Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/the-audrey-at-belltown-seattle-wa/snwyk77/,95,88,65,67
+292,Canvas,600 Elliott Ave W,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/canvas-seattle-wa/gs4m8my/,80,60,95,71
+293,4029 Rainier Ave,4029 Rainier Ave S,Seattle,WA,98118,Columbia City,https://www.apartments.com/4029-rainier-ave-seattle-wa/h5h8553/,88,63,68,70
+294,Delridge Crossing,2425 SW Webster St,Seattle,WA,98106,High Point,https://www.apartments.com/delridge-crossing-seattle-wa/ym21wdr/,46,48,60,78
+295,Soren Apartments,5711 24th Ave NW,Seattle,WA,98107,Ballard,https://www.apartments.com/soren-apartments-seattle-wa/4gwlh0k/,98,52,89,70
+296,Aperture on Fifth,206 5th Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/aperture-on-fifth-seattle-wa/wq94pvl/,97,87,85,66
+297,Rooster Apartments,900 NE 65th St,Seattle,WA,98115,Seattle,https://www.apartments.com/rooster-apartments-seattle-wa/dm7bexl/,97,59,94,63
+298,Noba Apartments,8022 15th Ave NW,Seattle,WA,98117,Whittier Heights,https://www.apartments.com/noba-apartments-seattle-wa/kngnh08/,88,53,76,70
+299,The Station At Othello Park,4219 S Othello St,Seattle,WA,98118,Brighton,https://www.apartments.com/the-station-at-othello-park-seattle-wa/jbdwrp5/,88,66,84,70
+300,Enve,1901 Franklin Ave E,Seattle,WA,98102,Eastlake,https://www.apartments.com/enve-seattle-wa/hbvdpd1/,84,58,71,65
+301,Union Bay,526 Yale Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/union-bay-seattle-wa/l7flz7e/,95,82,62,
+302,Westhaven Apartments,2201 SW Holden St,Seattle,WA,98106,South Delridge,https://www.apartments.com/westhaven-apartments-seattle-wa/yhsgsbv/,51,48,61,76
+303,Campus View,4322 7th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/campus-view-seattle-wa/nf2e3dn/,95,84,83,65
+304,Martinique,2122 8th Ave N,Seattle,WA,98109,Queen Anne,https://www.apartments.com/martinique-seattle-wa/vlklcyf/,71,66,72,71
+305,Square One,1020 NE 63rd St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/square-one-seattle-wa/xlfdkdp/,97,72,99,66
+306,Etta Ballard,1710 NW 57th St,Seattle,WA,98107,Ballard,https://www.apartments.com/etta-ballard-seattle-wa/3me996g/,97,54,94,67
+307,Kavela,845 NE 66th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/kavela-seattle-wa/xdfnwmm/,97,69,97,62
+308,Junction 47,4209 SW Alaska St,Seattle,WA,98116,Junction,https://www.apartments.com/junction-47-seattle-wa/vqxedgg/,98,51,56,70
+309,Lillehammer Apartments,7016 15th Ave NW,Seattle,WA,98117,Whittier Heights,https://www.apartments.com/lillehammer-apartments-seattle-wa/rs62rv2/,86,49,79,72
+310,Elara at the Market,2134 Western Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/elara-at-the-market-seattle-wa/15vbwd5/,98,100,63,64
+311,Winston Apartments,1019 E Pike St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/winston-apartments-seattle-wa/tnsh0w8/,100,86,93,67
+312,Expo,118 Republican St,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/expo-seattle-wa/sbrljt6/,97,73,88,69
+313,Boxcar South Lake Union,975 John St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/boxcar-south-lake-union-seattle-wa/91dpdt4/,99,99,75,65
+314,Reverie Beacon Hill,3309 Beacon Ave S,Seattle,WA,98144,North Beacon Hill,https://www.apartments.com/reverie-beacon-hill-seattle-wa/dh7bsbl/,79,70,95,72
+315,Carkeek Park Place,431 NW 100th Pl,Seattle,WA,98177,Greenwood,https://www.apartments.com/carkeek-park-place-seattle-wa/bx1rt49/,81,54,73,70
+316,Westview Apartment Homes,2525 14th Ave S,Seattle,WA,98144,North Beacon Hill,https://www.apartments.com/westview-apartment-homes-seattle-wa/fdtghfv/,85,73,89,67
+317,Alcyone,301 Minor Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/alcyone-seattle-wa/gxmy4jw/,99,85,83,66
+318,Clairemont Apartments,2010-2014 E Yesler Way,Seattle,WA,98122,Minor,https://www.apartments.com/clairemont-apartments-seattle-wa/c1tpq3e/,91,72,88,72
+319,The Courtyard,4039 8th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/the-courtyard-seattle-wa/jc8wsf5/,92,83,87,66
+320,Park 3025,3025 NE 137th St,Seattle,WA,98125,Lake City,https://www.apartments.com/park-3025-seattle-wa/pmzn0bv/,76,56,78,74
+321,Vitality on Howell,1420 E Howell St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/vitality-on-howell-seattle-wa/x3jkxrq/,98,76,86,70
+322,AJ Apartments,4505 42nd Ave SW,Seattle,WA,98116,Junction,https://www.apartments.com/aj-apartments-seattle-wa/n6erncm/,98,51,68,69
+323,Mural,4727 42nd Ave SW,Seattle,WA,98116,Junction,https://www.apartments.com/mural-seattle-wa/mkb2s9j/,98,51,56,71
+324,Monticello Apartments,415 Boren Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/monticello-apartments-seattle-wa/2bt4838/,96,100,79,65
+325,Sundodger Apartments,4218 Roosevelt Way NE,Seattle,WA,98105,University District,https://www.apartments.com/sundodger-apartments-seattle-wa/wqqzmgj/,98,85,87,66
+326,Edgewater Apartments,2411 42nd Ave E,Seattle,WA,98112,Madison Park,https://www.apartments.com/edgewater-apartments-seattle-wa/5tyrdrq/,63,31,66,72
+327,Baker 38 Apartments,2531-2541 29th Ave S,Seattle,WA,98144,Mt Baker,https://www.apartments.com/baker-38-apartments-seattle-wa/j58syj6/,82,70,70,74
+328,Walton Lofts,75 Vine St,Seattle,WA,98121,Belltown,https://www.apartments.com/walton-lofts-seattle-wa/v0lh92f/,98,96,71,63
+329,Patent 523,523 Broadway E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/patent-523-seattle-wa/qh65q1x/,98,78,92,66
+330,Collage,3606 Woodland Park Ave N,Seattle,WA,98103,Fremont,https://www.apartments.com/collage-seattle-wa/bk8lxkc/,92,58,94,70
+331,Fountain Court,2400 4th Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/fountain-court-seattle-wa/renq601/,99,100,83,58
+332,Autumn Ridge Apartments,15135 Stone Ln N,Seattle,WA,98133,Seattle,https://www.apartments.com/autumn-ridge-apartments-seattle-wa/7wnxf2z/,72,53,52,74
+333,AMLI 535,535 Pontius Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/amli-535-seattle-wa/v7ckjpe/,97,82,85,65
+334,Urbana,1501 NW 56th St,Seattle,WA,98107,Ballard,https://www.apartments.com/urbana-seattle-wa/hsfjf32/,97,54,97,61
+335,The Cairns,422 Yale Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/the-cairns-seattle-wa/we5wxlj/,96,83,73,58
+336,SPUR Apartments,4600 Union Bay Pl NE,Seattle,WA,98105,University Village,https://www.apartments.com/spur-apartments-seattle-wa/z3kr8gz/,83,70,98,71
+337,Northline Apartments,14359 Linden Ave N,Seattle,WA,98133,Bitter Lake,https://www.apartments.com/northline-apartments-seattle-wa/d2scj5l/,72,52,82,71
+338,Lake Union Terrace Apartments,210 E Blaine St,Seattle,WA,98102,Seattle,https://www.apartments.com/lake-union-terrace-apartments-seattle-wa/8qbhvq3/,84,58,71,63
+339,Cubix North Park Apartments,1008 N 109th St,Seattle,WA,98133,Bitter Lake,https://www.apartments.com/cubix-north-park-apartments-seattle-wa/t9fqtl9/,80,59,74,65
+340,Alley24,241 Yale Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/alley24-seattle-wa/r6k4jf2/,97,84,84,64
+341,Wharfside Pointe,3812-3827 14th Ave W,Seattle,WA,98119,Queen Anne,https://www.apartments.com/wharfside-pointe-seattle-wa/2pml6tc/,69,56,70,73
+342,Queen Anne Flats,521 2nd Ave W,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/queen-anne-flats-seattle-wa/k307gl9/,94,68,77,72
+343,Robins Nest,3272 Fuhrman Ave E,Seattle,WA,98102,Portage Bay,https://www.apartments.com/robins-nest-seattle-wa/1bl0g26/,80,76,81,67
+344,Charlesgate,2230 4th Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/charlesgate-seattle-wa/dkf7wml/,99,100,81,63
+345,Array,14027 Lake City Way NE,Seattle,WA,98125,Lake City,https://www.apartments.com/array-seattle-wa/jc7yzh5/,66,49,69,69
+346,The Madison Apartments,823 Madison St,Seattle,WA,98104,First Hill,https://www.apartments.com/the-madison-apartments-seattle-wa/w0ft1xl/,98,100,67,64
+347,Manhattan Apartment Homes,18243 1st Ave S,Seattle,WA,98148,Seattle,https://www.apartments.com/manhattan-apartment-homes-seattle-wa/5q5f6gq/,48,59,69,
+348,Nolan and Nora,4717 Brooklyn Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/nolan-and-nora-seattle-wa/pw4kxhs/,99,84,95,64
+349,Springbrook Reserve,7033 S 133rd St,Seattle,WA,98178,Bryn Mawr-Skyway,https://www.apartments.com/springbrook-reserve-seattle-wa/qjln8bz/,15,4,76,
+350,The M Seattle,4700 Brooklyn NE,Seattle,WA,98105,University District,https://www.apartments.com/the-m-seattle-seattle-wa/d6m705l/,99,84,95,66
+351,Illumina Lake Union,219 E Garfield St,Seattle,WA,98102,South Lake Union,https://www.apartments.com/illumina-lake-union-seattle-wa/wp5jslj/,80,60,70,64
+352,Louisa Hotel,669 S King St,Seattle,WA,98104,Chinatown,https://www.apartments.com/louisa-hotel-seattle-wa/796b0nz/,99,100,84,64
+353,1111 East Olive,1111 E Olive St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/1111-east-olive-seattle-wa/v0gk6mg/,97,82,87,69
+354,Moda,2312 3rd Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/moda-seattle-wa/nlqgvcm/,99,100,77,62
+355,Jack Apartments,1427 11th Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/jack-apartments-seattle-wa/zv49qhz/,100,87,93,67
+356,Mysa Apartment Homes,3025 NE 130th St,Seattle,WA,98125,Lake City,https://www.apartments.com/mysa-apartment-homes-seattle-wa/vdk7fkd/,88,57,82,71
+357,Lakefront on Washington,538 Lakeside Ave S,Seattle,WA,98144,Leschi,https://www.apartments.com/lakefront-on-washington-seattle-wa/zrwbesy/,65,44,74,73
+358,Towers on Greenwood,8551 Greenwood Ave N,Seattle,WA,98103,Greenwood,https://www.apartments.com/towers-on-greenwood-seattle-wa/np8h6xq/,92,54,86,69
+359,1711 12th Apartments,1711 12th Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/1711-12th-apartments-seattle-wa/rjfb3c2/,97,82,85,69
+360,Meridian Place Apartments,10711 Meridian Ave N,Seattle,WA,98133,North College Park,https://www.apartments.com/meridian-place-apartments-seattle-wa/d8zksbk/,69,71,69,67
+361,624 Yale,624 Yale Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/624-yale-seattle-wa/8k03zd2/,94,80,83,64
+362,Artisan Studios,5006 15th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/artisan-studios-seattle-wa/58my2ln/,98,82,94,69
+363,Lakeview Apartments,1551-1559 Lakeview Blvd E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/lakeview-apartments-seattle-wa/jy0e037/,78,57,66,66
+364,Milan Apartments,4300 Aurora Ave N,Seattle,WA,98103,Wallingford,https://www.apartments.com/milan-apartments-seattle-wa/brpjwt8/,91,62,79,70
+365,3030 Lake City,3030 NE 143rd St,Seattle,WA,98125,Lake City,https://www.apartments.com/3030-lake-city-seattle-wa/rpfk3p0/,62,50,77,73
+366,Vibe Apartments,3601 Greenwood Ave N,Seattle,WA,98103,Fremont,https://www.apartments.com/vibe-apartments-seattle-wa/esgt2vq/,93,64,86,69
+367,The Park At Northgate,10713 Roosevelt Way NE,Seattle,WA,98125,Maple Leaf,https://www.apartments.com/the-park-at-northgate-seattle-wa/bybgj2b/,92,70,70,72
+368,Northbrook Place,10215 Lake City Way,Seattle,WA,98125,Lake City,https://www.apartments.com/northbrook-place-seattle-wa/nv65x1q/,51,50,49,70
+369,Cooper,13530 Linden Ave N,Seattle,WA,98133,Bitter Lake,https://www.apartments.com/cooper-seattle-wa/qrfnbww/,79,52,76,69
+370,The Ludlow,701-711 E Pike St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/the-ludlow-seattle-wa/5ywg7jp/,100,94,82,65
+371,Mcguire Court Apartments,10740 NE 8th Ave,Seattle,WA,98125,Maple Leaf,https://www.apartments.com/mcguire-court-apartments-seattle-wa/8cjj0h2/,92,70,70,71
+372,Prince Of Wales,1818 20th Ave,Seattle,WA,98122,Stevens,https://www.apartments.com/prince-of-wales-seattle-wa/t6d8sw8/,92,67,93,70
+373,Rainier View Homes,12672 60th Ave S,Seattle,WA,98178,Bryn Mawr-Skyway,https://www.apartments.com/rainier-view-homes-seattle-wa/ll6bn7d/,30,18,70,
+374,City Views,3021 SW Bradford St,Seattle,WA,98126,West Seattle,https://www.apartments.com/city-views-seattle-wa/wg70tzh/,70,56,69,70
+375,Arrowhead Gardens Senior Living Apartments,9200 2nd Ave SW,Seattle,WA,98106,Highland Park,https://www.apartments.com/arrowhead-gardens-senior-living-apartments-seattle-wa/2ylwtv8/,35,43,36,73
+376,Andante Seattle Apartments,3031 NE 137th St,Seattle,WA,98125,Lake City,https://www.apartments.com/andante-seattle-apartments-seattle-wa/j43dvw5/,70,55,78,73
+377,Greenlake Terrace Apartments,7415 5th Ave NE,Seattle,WA,98115,Green Lake,https://www.apartments.com/greenlake-terrace-apartments-seattle-wa/pkt710r/,93,65,88,64
+378,Avant Apartments,2112 E Denny Way,Seattle,WA,98122,Stevens,https://www.apartments.com/avant-apartments-seattle-wa/ntnpjxq/,89,64,93,67
+379,Skyline House Apartments,600 W Olympic Pl,Seattle,WA,98119,Seattle,https://www.apartments.com/skyline-house-apartments-seattle-wa/sz40d85/,71,59,71,76
+380,Brentwood Square,13433 Greenwood Ave N,Seattle,WA,98133,Broadview,https://www.apartments.com/brentwood-square-seattle-wa/r4lwld3/,57,48,64,73
+381,Addison on Fourth,308 4th Ave S,Seattle,WA,98104,Chinatown,https://www.apartments.com/addison-on-fourth-seattle-wa/6tfx0gt/,98,100,87,66
+382,Wallingford Studios,4516 Meridian Ave N,Seattle,WA,98103,Wallingford,https://www.apartments.com/wallingford-studios-seattle-wa/s0fpnp6/,96,56,92,69
+383,Lake Washington Apartments,9061 Seward Park Ave S,Seattle,WA,98118,Dunlap,https://www.apartments.com/lake-washington-apartments-seattle-wa/xjkk8qm/,77,48,45,72
+384,Tower 801,801 Pine St,Seattle,WA,98101,Downtown Seattle,https://www.apartments.com/tower-801-seattle-wa/3qpwp1d/,99,100,81,60
+385,Larson Building,3206 Harvard Ave E,Seattle,WA,98102,Portage Bay,https://www.apartments.com/larson-building-seattle-wa/b3st0eb/,76,72,85,65
+386,HIDDEN CREEK VILLAGE APTS,13751 32nd Ave. N.E.,Seattle,WA,98125,Lake City,https://www.apartments.com/hidden-creek-village-apts-seattle-wa/5rp1jcq/,66,54,79,73
+387,Sheridan Apartments,2011 5th Ave,Seattle,WA,98121,Downtown Seattle,https://www.apartments.com/sheridan-apartments-seattle-wa/vzhhgfe/,99,100,77,62
+388,La Vista Apartments,5565 152nd St,Seattle,WA,98188,Tukwila Urban Center,https://www.apartments.com/la-vista-apartments-seattle-wa/332hk8g/,25,47,27,69
+389,Lake City Court,12536 33rd Ave NE,Seattle,WA,98125,Lake City,https://www.apartments.com/lake-city-court-seattle-wa/rgcw330/,86,56,74,73
+390,Rise on 67th,829 NE 67th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/rise-on-67th-seattle-wa/ydh6cdr/,95,68,93,63
+391,Willow Crossing,6901 Martin Luther King Jr Way S,Seattle,WA,98118,Holly Park,https://www.apartments.com/willow-crossing-seattle-wa/fy0rtpt/,90,66,83,68
+392,Rainier Vista,4616 Martin Luther King Jr Way S,Seattle,WA,98108,Columbia City,https://www.apartments.com/rainier-vista-seattle-wa/j80th74/,86,65,75,70
+393,Sandpiper Apartments,3100 S 208th St,Seattle,WA,98198,Seattle,https://www.apartments.com/sandpiper-apartments-seattle-wa/75lpwzx/,30,56,33,64
+394,Watercrest,14812 Bothell Way NE,Lake Forest Park,WA,98155,Sheridan Beach,https://www.apartments.com/watercrest-lake-forest-park-wa/v0qkpyg/,53,66,73,
+395,Arbour Court,2225 S 112th St,Burien,WA,98168,Southern Heights-Boulevard Park,https://www.apartments.com/arbour-court-burien-wa/p90ylwv/,34,39,70,
+396,10559 23rd Ave NE,10559 23rd Ave NE,Seattle,WA,98125,Lake City,https://www.apartments.com/10559-23rd-ave-ne-seattle-wa/7qxfjdy/,55,51,44,76
+397,2617 E Thomas St,2617 E Thomas St,Seattle,WA,98112,Mann,https://www.apartments.com/2617-e-thomas-st-seattle-wa/mg4r4yk/,89,54,62,74
+398,450 S Main St Unit 611,450 S Main St,Seattle,WA,98104,Chinatown,https://www.apartments.com/450-s-main-st-seattle-wa-unit-611/qtqpcjy/,98,100,76,65
+399,2607 Western Ave Unit 151,2607 Western Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/2607-western-ave-seattle-wa-unit-151/9d406s4/,98,96,63,65
+400,1900 1st Ave Unit FL5-ID47,1900 1st Ave,Seattle,WA,98101,Pike Place Market,https://www.apartments.com/1900-1st-ave-seattle-wa/kpphq88/,98,100,60,63
+401,1301 1st Ave Unit FL12-ID111,1301 1st Ave,Seattle,WA,98101,Downtown Seattle,https://www.apartments.com/1301-1st-ave-seattle-wa/qlxpxez/,99,100,60,62
+402,2610 44th Ave SW,2610 44th Ave SW,Seattle,WA,98116,North Admiral,https://www.apartments.com/2610-44th-ave-sw-seattle-wa/q2cvvbx/,92,42,67,64
+403,1414 10th Ave Unit 100W.150518,1414 10th Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/1414-10th-ave-seattle-wa/83xl531/,100,87,93,68
+404,200 2nd Ave W Unit 306.257955,200 2nd Ave W,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/200-2nd-ave-w-seattle-wa/hcs5861/,88,70,81,72
+405,3000 S Alaska St Unit 224.386736,3000 S Alaska St,Seattle,WA,98108,Columbia City,https://www.apartments.com/3000-s-alaska-st-seattle-wa/mvs185j/,88,65,75,68
+406,118 Broadway E Unit FL6-ID127,118 Broadway E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/118-broadway-e-seattle-wa/gvz2s5x/,99,84,91,67
+407,306 Blanchard St Unit 311.648202,306 Blanchard St,Seattle,WA,98121,Belltown,https://www.apartments.com/306-blanchard-st-seattle-wa/09f26q1/,99,100,81,63
+408,1408 Western Ave Unit FL7-ID202,1408 Western Ave,Seattle,WA,98101,Pike Place Market,https://www.apartments.com/1408-western-ave-seattle-wa/f71tq3s/,99,100,68,63
+409,1280 Harrison St Unit FL5-ID205,1280 Harrison St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/1280-harrison-st-seattle-wa/myvyt9k/,98,83,81,63
+410,400 Boren Ave N Unit FL6-ID240,400 Boren Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/400-boren-ave-n-seattle-wa/ngjxtrq/,99,86,76,66
+411,5622 23rd Ave SW,5622 23rd Ave SW,Seattle,WA,98106,Riverview,https://www.apartments.com/5622-23rd-ave-sw-seattle-wa/tlc0xbb/,39,45,45,76
+412,1524 Eastlake Ave E Unit FL6-ID192,1524 Eastlake Ave E,Seattle,WA,98102,South Lake Union,https://www.apartments.com/1524-eastlake-ave-e-seattle-wa/jvjmer4/,77,62,71,65
+413,2428 NW Market St Unit FL3-ID268,2428 NW Market St,Seattle,WA,98107,Ballard,https://www.apartments.com/2428-nw-market-st-seattle-wa/gehx52z/,97,52,89,69
+414,2424 Queen Anne Ave N,2424 Queen Anne Ave N,Seattle,WA,98109,Queen Anne,https://www.apartments.com/2424-queen-anne-ave-n-seattle-wa/jrff1l7/,93,64,72,73
+415,3034 26th Ave W,3034 26th Ave W,Seattle,WA,98199,Magnolia,https://www.apartments.com/3034-26th-ave-w-seattle-wa/fgkcynv/,61,46,50,77
+416,4315 5th Ave NE,4315 5th Ave NE,Seattle,WA,98105,Wallingford,https://www.apartments.com/4315-5th-ave-ne-seattle-wa/yervw9t/,87,82,82,59
+417,1260 Republican St Unit FL4-ID276,1260 Republican St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/1260-republican-st-seattle-wa/ntm895q/,96,82,81,64
+418,4916 S 124th St,4916 S 124th St,Tukwila,WA,98178,Allentown,https://www.apartments.com/4916-s-124th-st-tukwila-wa/6hce4ks/,27,32,61,65
+419,The Ivey on Boren,2019 Boren Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/the-ivey-on-boren-seattle-wa/738xtcx/,99,100,78,62
+420,Buena Vista,1631 Boylston Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/buena-vista-seattle-wa/mef2hdh/,99,93,82,65
+421,Westwood Apartments,2200 SW Barton St,Seattle,WA,98106,South Delridge,https://www.apartments.com/westwood-apartments-seattle-wa/0vdf8m0/,86,58,53,72
+422,Stowell Seattle,949 N 80th St,Seattle,WA,98103,Greenwood,https://www.apartments.com/stowell-seattle-seattle-wa/8gz1zz3/,89,53,89,60
+423,Radian Apartments,4215-4221 9th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/radian-apartments-seattle-wa/clvqgvg/,96,85,76,65
+424,Madison 2.0 Apartments,1811 20th Ave,Seattle,WA,98122,Stevens,https://www.apartments.com/madison-20-apartments-seattle-wa/805wcr1/,92,69,90,70
+425,Normandy Apartments,4040 8th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/normandy-apartments-seattle-wa/b353wfb/,94,84,66,
+426,Sun light,4733 NE 21st Ave,Seattle,WA,98105,University District,https://www.apartments.com/sun-light-seattle-wa/99dcst6/,86,81,78,74
+427,The Grove,6301 15th Ave NW,Seattle,WA,98107,Ballard,https://www.apartments.com/the-grove-seattle-wa/30mkjnf/,93,52,92,64
+428,Felix Flats,121 15th Ave E,Seattle,WA,98112,Capitol Hill,https://www.apartments.com/felix-flats-seattle-wa/kj087n8/,97,75,89,68
+429,Zephyr Apartments,1650 E Olive Way,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/zephyr-apartments-seattle-wa/d7k3enl/,98,81,80,66
+430,Shoresmith,1170 Republican St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/shoresmith-seattle-wa/0px0ht1/,98,82,83,65
+431,Greenwood Apartments,9227 Greenwood Ave N,Seattle,WA,98103,Greenwood,https://www.apartments.com/greenwood-apartments-seattle-wa/5wntefm/,80,56,68,67
+432,The Cove,601 E Pike St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/the-cove-seattle-wa/ezzypgp/,100,94,82,64
+433,The Central,2203-2207 E Union St,Seattle,WA,98122,Minor,https://www.apartments.com/the-central-seattle-wa/kcbslz8/,93,63,98,68
+434,Spencer House,10541 Stone Ave N,Seattle,WA,98133,Haller Lake,https://www.apartments.com/spencer-house-seattle-wa/ylfgwlt/,86,65,69,72
+435,Sienna Apartments,207 18th Ave,Seattle,WA,98144,Minor,https://www.apartments.com/sienna-apartments-seattle-wa/4lz7hdj/,89,75,91,74
+436,Dunn Motors Building,1430 Summit Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/dunn-motors-building-seattle-wa/g1v2ynw/,99,96,81,63
+437,Onni South Lake Union,112 Boren Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/onni-south-lake-union-seattle-wa/m93gvph/,99,98,79,64
+438,Solis,1300 E Pike St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/solis-seattle-wa/k4tylg8/,99,80,86,68
+439,NorthPark Villa,1100 N 115th St,Seattle,WA,98133,Haller Lake,https://www.apartments.com/northpark-villa-seattle-wa/y2e8htt/,63,54,68,71
+440,The Hawthorne Apartments,1618 Bellevue Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/the-hawthorne-apartments-seattle-wa/cq7qzre/,97,97,71,62
+441,Henry,22 Etruria St,Seattle,WA,98109,Queen Anne,https://www.apartments.com/henry-seattle-wa/y1n5slv/,83,64,68,72
+442,Lawton Park Apartments,3721 27th Pl W,Seattle,WA,98199,Seattle,https://www.apartments.com/lawton-park-apartments-seattle-wa/578cw8q/,57,42,48,80
+443,Melody by Jabooda,2101 S Grand St,Seattle,WA,98144,North Beacon Hill,https://www.apartments.com/melody-by-jabooda-seattle-wa/gj0171w/,84,66,83,69
+444,Valdok,1701 NW 56th St,Seattle,WA,98107,Ballard,https://www.apartments.com/valdok-seattle-wa/q2wzw5x/,97,54,96,65
+445,The Edge,500 13th Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/the-edge-seattle-wa/nz181vq/,97,74,81,72
+446,Mio Apartments,1319 NE 65th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/mio-apartments-seattle-wa/vwsrwjf/,96,69,74,69
+447,Vida Seattle,1205 NE 66th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/vida-seattle-seattle-wa/97z0395/,97,69,86,68
+448,999 Hiawatha,999 Hiawatha Place South,Seattle,WA,98144,Atlantic,https://www.apartments.com/999-hiawatha-seattle-wa/ymfxrvv/,82,71,90,68
+449,Esperanza - Affordable Senior Housing,6940 37th Ave S,Seattle,WA,98118,Holly Park,https://www.apartments.com/esperanza-affordable-senior-housing-seattle-wa/08dk7y0/,88,65,82,71
+450,Evolve Apartment Homes,954 E Union St,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/evolve-apartment-homes-seattle-wa/wcvxefk/,100,90,80,68
+451,Lake Court Apartments,2012 43rd Ave E,Seattle,WA,98112,Madison Park,https://www.apartments.com/lake-court-apartments-seattle-wa/b7kk5v8/,80,31,48,76
+452,Terravita,1615 Belmont Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/terravita-seattle-wa/kbbv1cc/,99,95,74,64
+453,Haller Post,1130 N 115th St,Seattle,WA,98133,Seattle,https://www.apartments.com/haller-post-seattle-wa/9nv2j95/,52,54,63,73
+454,Capitol Hill Station,118 Broadway E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/capitol-hill-station-seattle-wa/4912xmk/,99,84,91,67
+455,Huxley,4754 Fauntleroy Way SW,Seattle,WA,98116,Fairmount Park,https://www.apartments.com/huxley-seattle-wa/r7j56j0/,92,52,49,71
+456,Lexington Apartments,1050 James St,Seattle,WA,98104,First Hill,https://www.apartments.com/lexington-apartments-seattle-wa/yh29gws/,97,100,94,65
+457,Nors,5253 15th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/nors-seattle-wa/h5n2nm3/,96,78,98,70
+458,AlderCrest Apartments,303 10th Ave,Seattle,WA,98122,Minor,https://www.apartments.com/aldercrest-apartments-seattle-wa/xwtehxn/,93,97,80,67
+459,BEAM,1029 S Jackson St,Seattle,WA,98104,Chinatown,https://www.apartments.com/beam-seattle-wa/bwdhwwb/,98,96,81,63
+460,The Orion,901 Taylor Ave N,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/the-orion-seattle-wa/e9v827p/,92,79,87,69
+461,Lake Union Tower,766 Garfield St,Seattle,WA,98109,Westlake,https://www.apartments.com/lake-union-tower-seattle-wa/tw3dsq8/,77,70,86,71
+462,Twenty20 Mad,2020 E Madison St,Seattle,WA,98122,Seattle,https://www.apartments.com/twenty20-mad-seattle-wa/gdbm6yx/,92,67,96,69
+463,Assembly118,4200 S Othello St,Seattle,WA,98118,Brighton,https://www.apartments.com/assembly118-seattle-wa/bxw49bc/,86,66,82,69
+464,Capitol Court,514 E 19th Ave,Seattle,WA,98112,Seattle,https://www.apartments.com/capitol-court-seattle-wa/28q1v88/,94,64,92,74
+465,Burke + Union Apartments,4516 Union Bay Pl NE,Seattle,WA,98105,University Village,https://www.apartments.com/burke-union-apartments-seattle-wa/7qm3kzz/,83,70,82,71
+466,The Galleria,10500 Meridian Ave N,Seattle,WA,98133,North College Park,https://www.apartments.com/the-galleria-seattle-wa/qctzxyz/,73,73,74,68
+467,Hill Crest Apartment Homes,7524 35th Ave SW,Seattle,WA,98126,Roxhill,https://www.apartments.com/hill-crest-apartment-homes-seattle-wa/dcw5r9j/,58,44,57,73
+468,Puget Vista,411 W Republican St,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/puget-vista-seattle-wa/gk6ms4z/,87,64,88,71
+469,The Hayes on Stone Way,3627 Stone Way N,Seattle,WA,98103,Fremont,https://www.apartments.com/the-hayes-on-stone-way-seattle-wa/57zcdkm/,89,57,94,71
+470,Emerald Arms,1741 Belmont Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/emerald-arms-seattle-wa/68rtvfv/,99,93,82,66
+471,The Broadway Building,1620 Broadway,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/the-broadway-building-seattle-wa/82qqjd2/,99,88,89,67
+472,The Weatherford,1321 E John St,Seattle,WA,98102,Central Seattle,https://www.apartments.com/the-weatherford-seattle-wa/nberqfn/,98,74,88,70
+473,STAZIONE25,2615-2715 25th Ave S,Seattle,WA,98144,North Beacon Hill,https://www.apartments.com/stazione25-seattle-wa/t6gpln8/,80,73,62,73
+474,Wally Apartments,4111 Stone Way N,Seattle,WA,98103,Wallingford,https://www.apartments.com/wally-apartments-seattle-wa/fxd6f8t/,91,62,85,70
+475,Cascade Court Apartments,7001 Rainier Ave S,Seattle,WA,98118,Brighton,https://www.apartments.com/cascade-court-apartments-seattle-wa/4625shj/,72,62,67,66
+476,U20 Apartments,4536 20th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/u20-apartments-seattle-wa/dgw4wwk/,87,82,84,73
+477,Riverview West Apartments,10300 Des Moines Memorial Dr,Seattle,WA,98168,Southern Heights-Boulevard Park,https://www.apartments.com/riverview-west-apartments-seattle-wa/wy3qtxh/,29,30,67,
+478,Sentral First Hill,1001 Minor Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/sentral-first-hill-seattle-wa/rwd8ec0/,98,99,93,65
+479,Livingstone,9049 20th Ave SW,Seattle,WA,98106,West Seattle,https://www.apartments.com/livingstone-seattle-wa/bezdlq8/,89,58,70,67
+480,The Q Apartments,1321 Queen Anne Ave N,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/the-q-apartments-seattle-wa/r27w5z3/,92,61,51,70
+481,Off Campus Residences,4730 20th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/off-campus-residences-seattle-wa/ch2fkgd/,86,81,83,74
+482,Altamira Apartments,4540 42nd Ave SW,Seattle,WA,98116,Junction,https://www.apartments.com/altamira-apartments-seattle-wa/xq7ntvq/,98,52,58,69
+483,Airmark Apartments,229 Andover Park E,Seattle,WA,98188,Tukwila Urban Center,https://www.apartments.com/airmark-apartments-seattle-wa/qrmphlw/,60,50,67,71
+484,Emerson Seattle,125 Boren Ave S,Seattle,WA,98144,First Hill,https://www.apartments.com/emerson-seattle-seattle-wa/v1m1eje/,97,97,85,65
+485,Northbridge Apartments,3800 Aurora Ave N,Seattle,WA,98103,Fremont,https://www.apartments.com/northbridge-apartments-seattle-wa/06ct6m3/,94,63,82,69
+486,Stockbridge Apartment Homes,1330 Boren Ave,Seattle,WA,98101,First Hill,https://www.apartments.com/stockbridge-apartment-homes-seattle-wa/bjk64qb/,99,100,66,63
+487,Inspire,3825 Bridge Way N,Seattle,WA,98103,Fremont,https://www.apartments.com/inspire-seattle-wa/txmwreb/,91,62,88,71
+488,Rubix,515 Harvard Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/rubix-seattle-wa/d0d8fll/,98,78,92,67
+489,Sentral SLU,1212 Harrison St,Seattle,WA,98109,South Lake Union,https://www.apartments.com/sentral-slu-seattle-wa/53ysvvn/,98,83,86,65
+490,Centro by aPodment Suites,1304 E John St,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/centro-by-apodment-suites-seattle-wa/nc16g5q/,98,74,88,71
+491,Taylor Creek,7050 S 116th Pl,Seattle,WA,98178,Bryn Mawr-Skyway,https://www.apartments.com/taylor-creek-seattle-wa/x6yp1mp/,41,46,77,
+492,Crestview Apartments,3630 Renton Ave S,Seattle,WA,98144,Columbia City,https://www.apartments.com/crestview-apartments-seattle-wa/gtdk6sy/,86,68,63,73
+493,Montclair Apartments,4727 12th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/montclair-apartments-seattle-wa/hf63dv2/,98,84,95,65
+494,Vermont Inn,2721 4th Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/vermont-inn-seattle-wa/7xt12dz/,99,96,83,65
+495,Modena by aPodment Suites,2320 E Madison St,Seattle,WA,98112,Stevens,https://www.apartments.com/modena-by-apodment-suites-seattle-wa/b2we1db/,89,60,72,69
+496,Pladhus Apartments,838 NE 69th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/pladhus-apartments-seattle-wa/lek93gf/,96,68,88,62
+497,Spruce Park Apartments,155 21st Ave,Seattle,WA,98122,Minor,https://www.apartments.com/spruce-park-apartments-seattle-wa/nd4g5hq/,91,72,88,75
+498,NOCO Apartments,4525 Rainier Ave S,Seattle,WA,98118,Columbia City,https://www.apartments.com/noco-apartments-seattle-wa/h0k46q3/,93,62,74,66
+499,Odessa Apartments,3120 Harvard Ave E,Seattle,WA,98102,Portage Bay,https://www.apartments.com/odessa-apartments-seattle-wa/312d0jg/,76,72,85,66
+500,Giardino by aPodment Suites,1514 NW 52nd St,Seattle,WA,98107,Ballard,https://www.apartments.com/giardino-by-apodment-suites-seattle-wa/wnc0qbj/,95,54,98,62
+501,The Lofts at the Junction,4535 44th Ave SW,Seattle,WA,98116,Junction,https://www.apartments.com/the-lofts-at-the-junction-seattle-wa/cpjhyce/,97,51,71,72
+502,Handel Apartments,844 NE 69th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/handel-apartments-seattle-wa/5qsjgqm/,96,68,88,62
+503,Strada by aPodment Suites,4516 7th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/strada-by-apodment-suites-seattle-wa/93zj267/,95,83,87,64
+504,Alturra by aPodment Suites,306 Summit Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/alturra-by-apodment-suites-seattle-wa/7d9xf3z/,98,82,78,66
+505,Ballard 57,1731 NW 57th St,Seattle,WA,98107,Ballard,https://www.apartments.com/ballard-57-seattle-wa/e04s10m/,97,54,94,68
+506,Firenze aPodment Suites,151 12th Ave,Seattle,WA,98122,Minor,https://www.apartments.com/firenze-apodment-suites-seattle-wa/gffwhyz/,95,96,85,66
+507,Lago by aPodment Suites,10610-10610 Meridian Ave,Seattle,WA,98133,North College Park,https://www.apartments.com/lago-by-apodment-suites-seattle-wa/nkr245n/,73,73,74,68
+508,Bellevue Court,433 Bellevue Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/bellevue-court-seattle-wa/8mmf5g3/,95,81,80,64
+509,The Olivian,809 Olive Way,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/the-olivian-seattle-wa/srj9ny6/,99,100,78,61
+510,1715 Apartments,1715 NW 58th St,Seattle,WA,98107,Ballard,https://www.apartments.com/1715-apartments-seattle-wa/n2d0dgn/,98,54,95,66
+511,Lowell Apartments,1102 8th Ave,Seattle,WA,98101,First Hill,https://www.apartments.com/lowell-apartments-seattle-wa/ttsqt38/,99,100,75,61
+512,LATITUDE 112 BY VINTAGE,125 SW 112th St,Seattle,WA,98168,Highline,https://www.apartments.com/latitude-112-by-vintage-seattle-wa/5k7z6zp/,42,40,69,
+513,1900 1st Ave Unit FL6-ID30,1900 1st Ave,Seattle,WA,98101,Pike Place Market,https://www.apartments.com/1900-1st-ave-seattle-wa/31546qf/,98,100,60,63
+514,104 Pine St Unit FL2-ID50,104 Pine St,Seattle,WA,98101,Pike Place Market,https://www.apartments.com/104-pine-st-seattle-wa/vxr3w0g/,99,100,60,62
+515,Met Tower,1942-1942 Westlake Ave,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/met-tower-seattle-wa/qjgvn6y/,99,100,82,61
+516,1301 4th Ave Unit FL5-ID62,1301 4th Ave,Seattle,WA,98101,Downtown Seattle,https://www.apartments.com/1301-4th-ave-seattle-wa/hv2k2j3/,99,100,60,59
+517,104 Pine St Unit FL3-ID52,104 Pine St,Seattle,WA,98101,Pike Place Market,https://www.apartments.com/104-pine-st-seattle-wa/2qh0pw8/,99,100,60,62
+518,2116 4th Ave Unit FL16-ID86,2116 4th Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/2116-4th-ave-seattle-wa/2xjn30c/,99,100,78,62
+519,2116 4th Ave Unit FL20-ID89,2116 4th Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/2116-4th-ave-seattle-wa/z0nrp5w/,99,100,78,62
+520,224 Pontius Ave N Unit FL5-ID7,224 Pontius Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/224-pontius-ave-n-seattle-wa/6x61hys/,97,84,84,64
+521,120 10th Ave E Unit FL3-ID100,120 10th Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/120-10th-ave-e-seattle-wa/gzwrjkw/,97,82,90,69
+522,1301 1st Ave Unit FL7-ID112,1301 1st Ave,Seattle,WA,98101,Downtown Seattle,https://www.apartments.com/1301-1st-ave-seattle-wa/yyvcmpt/,99,100,60,62
+523,1200 Western Ave Ave Unit FL10-ID114,1200 Western Ave Ave,Seattle,WA,98101,Downtown Seattle,https://www.apartments.com/1200-western-ave-seattle-wa/j2mjtf4/,98,100,84,63
+524,2023 24th Ave S,2023 24th Ave S,Seattle,WA,98144,Atlantic,https://www.apartments.com/2023-24th-ave-s-seattle-wa/ynqm1dv/,87,70,78,70
+525,5014 39th Ave S Unit 306,5014 39th Ave S,Seattle,WA,98118,Columbia City,https://www.apartments.com/5014-39th-ave-s-seattle-wa-unit-306/8s0wyn2/,94,59,55,69
+526,3430 Renton Plz S,3430 Renton Plz S,Seattle,WA,98144,Columbia City,https://www.apartments.com/3430-renton-plz-s-seattle-wa/3mjcemg/,88,70,68,71
+527,5002 S Rose St,5002 S Rose St,Seattle,WA,98118,Dunlap,https://www.apartments.com/5002-s-rose-st-seattle-wa/7976mxz/,82,60,73,68
+528,8331 Wabash Ave S,8331 Wabash Ave S,Seattle,WA,98118,Dunlap,https://www.apartments.com/8331-wabash-ave-s-seattle-wa/j6qcnx4/,82,59,76,73
+529,4836 S Austin St,4836 S Austin St,Seattle,WA,98118,Brighton,https://www.apartments.com/4836-s-austin-st-seattle-wa/8ynysd2/,77,62,68,72
+530,6511 Rainier Ave S,6511 Rainier Ave S,Seattle,WA,98118,Brighton,https://www.apartments.com/6511-rainier-ave-s-seattle-wa/khf4gq8/,80,61,80,70
+531,624 Yale Ave N Unit FL5-ID16,624 Yale Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/624-yale-ave-n-seattle-wa/xvftmgq/,94,80,83,63
+532,101 Taylor Ave N Unit FL3-ID26,101 Taylor Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/101-taylor-ave-n-seattle-wa/1956pp6/,98,97,84,65
+533,7001 Sand Point Way NE,7001 Sand Point Way NE,Seattle,WA,98115,View Ridge,https://www.apartments.com/7001-sand-point-way-ne-seattle-wa/g03s8wx/,43,52,78,73
+534,506 NE 78th St,506 NE 78th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/506-ne-78th-st-seattle-wa/992cx05/,85,62,71,65
+535,9301 Linden Ave N,9301 Linden Ave N,Seattle,WA,98103,Greenwood,https://www.apartments.com/9301-linden-ave-n-seattle-wa/k16jzh8/,83,58,71,72
+536,Helm,602 Terry Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/helm-seattle-wa/5r5yjgm/,96,82,86,65
+537,2100 3rd Ave,2100 3rd Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/2100-3rd-ave-seattle-wa/4sgwd5l/,99,100,78,63
+538,829 19th Ave S,829 19th Ave S,Seattle,WA,98144,Atlantic,https://www.apartments.com/829-19th-ave-s-seattle-wa/jnq32h7/,85,71,68,69
+539,11348 3rd Ave NE,11348 3rd Ave NE,Seattle,WA,98125,Pinehurst,https://www.apartments.com/11348-3rd-ave-ne-seattle-wa/gw974ky/,86,64,79,68
+540,1808 Minor Ave Unit 1506,1808 Minor Ave,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/1808-minor-ave-seattle-wa-unit-1506/07z7vx3/,98,99,80,61
+541,420 Valley St Unit 402,420 Valley St,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/420-valley-st-seattle-wa-unit-402/s0jycb6/,95,80,91,66
+542,Alta Arlo,4720 Rainier Ave S,Seattle,WA,98118,Columbia City,https://www.apartments.com/alta-arlo-seattle-wa/g8e83wz/,95,61,83,69
+543,3801 Stone Way N Unit 465.2678,3801 Stone Way N,Seattle,WA,98103,Fremont,https://www.apartments.com/3801-stone-way-n-seattle-wa/8g3t8f2/,89,61,93,70
+544,1226 Taylor Ave N,1226 Taylor Ave N,Seattle,WA,98109,Queen Anne,https://www.apartments.com/1226-taylor-ave-n-seattle-wa/g7ef5jy/,84,75,80,71
+545,2228 Eastlake Ave E,2228 Eastlake Ave E,Seattle,WA,98102,Eastlake,https://www.apartments.com/2228-eastlake-ave-e-seattle-wa/mk232kh/,86,53,76,66
+546,5834 NE 75th St Unit B306,5834 NE 75th St,Seattle,WA,98115,View Ridge,https://www.apartments.com/5834-ne-75th-st-seattle-wa-unit-b306/e9lq36p/,42,51,64,73
+547,4200 Pasadena Pl NE,4200 Pasadena Pl NE,Seattle,WA,98105,University District,https://www.apartments.com/4200-pasadena-pl-ne-seattle-wa/07cl3l2/,89,83,74,64
+548,1810 15th Ave,1810 15th Ave,Seattle,WA,98122,Stevens,https://www.apartments.com/1810-15th-ave-seattle-wa/20jp7pb/,98,76,86,72
+549,1400 Hubbell Pl Unit 801,1400 Hubbell Pl,Seattle,WA,98101,First Hill,https://www.apartments.com/1400-hubbell-pl-seattle-wa-unit-801/k5fy2h9/,98,100,62,60
+550,906 N 85th St,906 N 85th St,Seattle,WA,98103,Greenwood,https://www.apartments.com/906-n-85th-st-seattle-wa/4mtynvl/,88,55,75,70
+551,2505 Dexter Ave N,2505 Dexter Ave N,Seattle,WA,98109,Queen Anne,https://www.apartments.com/2505-dexter-ave-n-seattle-wa/bw0tepb/,75,65,75,72
+552,4524 44th Ave SW,4524 44th Ave SW,Seattle,WA,98116,Junction,https://www.apartments.com/4524-44th-ave-sw-seattle-wa/re3l951/,97,51,71,71
+553,535 Pontius Ave N Unit FL5-ID79,535 Pontius Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/535-pontius-ave-n-seattle-wa/wdzy5wj/,97,82,86,65
+554,3801 Stone Way N Unit 430.7766,3801 Stone Way N,Seattle,WA,98103,Fremont,https://www.apartments.com/3801-stone-way-n-seattle-wa/qv9m5rw/,89,61,93,70
+555,5250 12th Ave NE,5250 12th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/5250-12th-ave-ne-seattle-wa/fdx2xgr/,97,79,99,67
+556,4714 22nd Ave NE,4714 22nd Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/4714-22nd-ave-ne-seattle-wa/s8gl4s4/,83,80,74,73
+557,301 Belmont Ave E,301 Belmont Ave E,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/301-belmont-ave-e-seattle-wa/8b41p71/,98,82,78,66
+558,Mera,630 Boren Ave N,Seattle,WA,98109,South Lake Union,https://www.apartments.com/mera-seattle-wa/mb7682j/,97,81,80,66
+559,1220 S Holgate St,1220 S Holgate St,Seattle,WA,98144,North Beacon Hill,https://www.apartments.com/1220-s-holgate-st-seattle-wa/hppnqp1/,79,76,82,69
+560,752 N. 78th St,752 N. 78th St,Seattle,WA,98103,Greenwood,https://www.apartments.com/752-n-78th-st-seattle-wa/lcknfne/,90,52,86,71
+561,2222 Gilman Dr W,2222 Gilman Dr W,Seattle,WA,98119,Queen Anne,https://www.apartments.com/2222-gilman-dr-w-seattle-wa/nh2pn8n/,76,59,63,76
+562,1808 Minor Ave Unit 1913,1808 Minor Ave,Seattle,WA,98101,Denny Triangle,https://www.apartments.com/1808-minor-ave-seattle-wa-unit-1913/z9d3v8x/,98,99,80,62
+563,1758 16th Ave. S,1758 16th Ave. S,Seattle,WA,98144,North Beacon Hill,https://www.apartments.com/1758-16th-ave-s-seattle-wa/n9tqt1m/,77,75,90,70
+564,7600 Greenwood Avenue North,7600 Greenwood Avenue North,Seattle,WA,98103,Greenwood,https://www.apartments.com/7600-greenwood-avenue-north-seattle-wa/wv8vjrl/,94,50,81,71
+565,2015 Terry Ave,2015 Terry Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/2015-terry-ave-seattle-wa/9qc9zm5/,99,100,78,61
+566,730 26th Ave S,730 26th Ave S,Seattle,WA,98144,Atlantic,https://www.apartments.com/730-26th-ave-s-seattle-wa/0lc0c30/,83,61,83,71
+567,411 Republican St,411 Republican St,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/411-republican-st-seattle-wa/14jbxy7/,96,83,88,67
+568,521 2nd Ave W,521 2nd Ave W,Seattle,WA,98119,Lower Queen Anne,https://www.apartments.com/521-2nd-ave-w-seattle-wa/myr5q7h/,94,68,77,72
+569,McKenzie,2202 Eighth Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/mckenzie-seattle-wa/tc4dx7b/,99,100,77,62
+570,3028 1st Ave,3028 1st Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/3028-1st-ave-seattle-wa/7vedbmx/,93,76,66,68
+571,124 Warren Ave. N. #108,124 Warren Ave. N. #108,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/124-warren-ave-n-108-seattle-wa/47r0d6k/,94,86,71,68
+572,1531 17th Ave S,1531 17th Ave S,Seattle,WA,98144,North Beacon Hill,https://www.apartments.com/1531-17th-ave-s-seattle-wa/fgdtzhv/,76,68,80,68
+573,450 S Main St Unit 1603,450 S Main St,Seattle,WA,98104,Chinatown,https://www.apartments.com/450-s-main-st-seattle-wa-unit-1603/s2cse16/,98,100,87,65
+574,1352 NE 68th St,1352 NE 68th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/1352-ne-68th-st-seattle-wa/tswj2zb/,90,69,87,70
+575,Malloy Apartment Homes,4337 15th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/malloy-apartment-homes-seattle-wa/f7vv06v/,99,85,88,69
+576,2415 2nd Ave Unit 337,2415 2nd Ave,Seattle,WA,98121,Belltown,https://www.apartments.com/2415-2nd-ave-seattle-wa-unit-337/svwn007/,99,100,78,60
+577,9011 35th Ave SW,9011 35th Ave SW,Seattle,WA,98126,Fauntleroy,https://www.apartments.com/9011-35th-ave-sw-seattle-wa/2pkts8c/,75,49,53,69
+578,2731 Boylston Ave E,2731 Boylston Ave E,Seattle,WA,98102,Eastlake,https://www.apartments.com/2731-boylston-ave-e-seattle-wa/ken8gf8/,78,63,87,62
+579,1625 Martin Luther King Jr Way,1625 Martin Luther King Jr Way,Seattle,WA,98122,Mann,https://www.apartments.com/1625-martin-luther-king-jr-way-seattle-wa/tph6858/,86,57,79,69
+580,2731 Boylston Ave E Unit 101,2731 Boylston Ave E,Seattle,WA,98102,Eastlake,https://www.apartments.com/2731-boylston-ave-e-seattle-wa-unit-101/cnjwtpe/,78,63,87,62
+581,Edwards on Fifth,2613-2619 5th Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/edwards-on-fifth-seattle-wa/ljmqv2d/,99,97,86,62
+582,5510 30th Ave NE,5510 30th Ave NE,Seattle,WA,98105,Ravenna,https://www.apartments.com/5510-30th-ave-ne-seattle-wa/q06ddjy/,88,65,77,74
+583,418 NE 44th St,418 NE 44th St,Seattle,WA,98105,Wallingford,https://www.apartments.com/418-ne-44th-st-seattle-wa/l6015zg/,91,81,83,58
+584,450 S Main St Unit 910,450 S Main St,Seattle,WA,98104,Chinatown,https://www.apartments.com/450-s-main-st-seattle-wa-unit-910/39hyh5d/,98,100,87,65
+585,4074 S Myrtle St,4074 S Myrtle St,Seattle,WA,98118,Brighton,https://www.apartments.com/4074-s-myrtle-st-seattle-wa/rh8tr41/,87,66,83,67
+586,668 S Lane St Unit 707,668 S Lane St,Seattle,WA,98104,Chinatown,https://www.apartments.com/668-s-lane-st-seattle-wa-unit-707/3k0nj9d/,98,100,84,64
+587,Batik Apartments,123 Broadway,Seattle,WA,98122,First Hill,https://www.apartments.com/batik-apartments-seattle-wa/5kpgz8n/,94,100,71,66
+588,4009 S Genesee St,4009 S Genesee St,Seattle,WA,98118,Mt Baker,https://www.apartments.com/4009-s-genesee-st-seattle-wa/00zm7q2/,82,58,76,76
+589,1512 6th Ave W,1512 6th Ave W,Seattle,WA,98119,Queen Anne,https://www.apartments.com/1512-6th-ave-w-seattle-wa/3d7txge/,86,59,66,73
+590,2115 NE 88th St,2115 NE 88th St,Seattle,WA,98115,Wedgewood,https://www.apartments.com/2115-ne-88th-st-seattle-wa/ed5m5qp/,64,51,79,73
+591,132B 21st Ave E,132B 21st Ave E,Seattle,WA,98112,Stevens,https://www.apartments.com/132b-21st-ave-e-seattle-wa/3kwtl3d/,89,64,95,71
+592,1929 10th Ave W,1929 10th Ave W,Seattle,WA,98119,Queen Anne,https://www.apartments.com/1929-10th-ave-w-seattle-wa/fb0px4s/,85,59,57,76
+593,2301 Fairview Ave E Unit 301,2301 Fairview Ave E,Seattle,WA,98102,Eastlake,https://www.apartments.com/2301-fairview-ave-e-seattle-wa-unit-301/tv7gkjc/,81,54,76,69
+594,7745 15th Ave NW,7745 15th Ave NW,Seattle,WA,98117,Loyal Heights,https://www.apartments.com/7745-15th-ave-nw-seattle-wa/j36hk84/,87,52,75,69
+595,5511 30th Ave NE,5511 30th Ave NE,Seattle,WA,98105,Ravenna,https://www.apartments.com/5511-30th-ave-ne-seattle-wa/1jkjp05/,88,65,77,74
+596,1525 NW 57th St Unit 329,1525 NW 57th St,Seattle,WA,98107,Ballard,https://www.apartments.com/1525-nw-57th-st-seattle-wa-unit-329/zdw3g2z/,97,54,96,62
+597,1504 Aurora Ave N Unit 101,1504 Aurora Ave N,Seattle,WA,98109,Westlake,https://www.apartments.com/1504-aurora-ave-n-seattle-wa-unit-101/vtsb6cf/,80,70,72,70
+598,10026 Ashworth Ave N,10026 Ashworth Ave N,Seattle,WA,98133,North College Park,https://www.apartments.com/10026-ashworth-ave-n-seattle-wa/l90e5ze/,83,71,68,71
+599,539 S Sullivan St,539 S Sullivan St,Seattle,WA,98108,South Park,https://www.apartments.com/539-s-sullivan-st-seattle-wa/fm8n1hv/,64,41,69,67
+600,5808 17th Ave NW,5808 17th Ave NW,Seattle,WA,98107,Ballard,https://www.apartments.com/5808-17th-ave-nw-seattle-wa/bzmnrtc/,96,53,93,69
+601,10625 22nd Plz S,10625 22nd Plz S,Seattle,WA,98168,Southern Heights-Boulevard Park,https://www.apartments.com/10625-22nd-plz-s-seattle-wa/tt40l2b/,17,33,71,
+602,841 NW 52nd St,841 NW 52nd St,Seattle,WA,98107,West Woodland,https://www.apartments.com/841-nw-52nd-st-seattle-wa/q73js7w/,91,55,96,73
+603,The LeeAnn,701 5th Ave N,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/the-leeann-seattle-wa/65vf8st/,96,82,91,65
+604,7523 Mary Ave NW,7523 Mary Ave NW,Seattle,WA,98117,Whittier Heights,https://www.apartments.com/7523-mary-ave-nw-seattle-wa/sprss75/,85,50,73,72
+605,3620 26th Plz W,3620 26th Plz W,Seattle,WA,98199,Lawton Park,https://www.apartments.com/3620-26th-plz-w-seattle-wa/j4vev44/,70,47,60,77
+606,13030 56th Ave S,13030 56th Ave S,Tukwila,WA,98178,Tukwila Urban Center,https://www.apartments.com/13030-56th-ave-s-tukwila-wa/zh4qezz/,21,43,51,68
+607,1740 NE 147th St,1740 NE 147th St,Shoreline,WA,98155,Shoreline,https://www.apartments.com/1740-ne-147th-st-shoreline-wa/kx4tlp9/,55,49,58,76
+608,Luxe at Meridian,10306 Meridian Ave N,Seattle,WA,98133,North Seattle,https://www.apartments.com/luxe-at-meridian-seattle-wa/9qwrlb5/,69,72,80,68
+609,Zig,550 Broadway,Seattle,WA,98122,Minor,https://www.apartments.com/zig-seattle-wa/tglsxzc/,95,96,88,67
+610,REN,2014 Fairview Ave,Seattle,WA,98121,Denny Triangle,https://www.apartments.com/ren-seattle-wa/6g8h8hr/,99,98,83,63
+611,Vantage Park Apartments,1011 E Terrace St,Seattle,WA,98122,Minor,https://www.apartments.com/vantage-park-apartments-seattle-wa/7xrt90z/,94,95,75,69
+612,Zindorf,714 7th Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/zindorf-seattle-wa/cmkvh2e/,98,100,67,62
+613,Elan 41,4100 SW Edmunds St SW,Seattle,WA,98116,Junction,https://www.apartments.com/elan-41-seattle-wa/84egbw0/,98,52,50,70
+614,Leeward,1301 Dexter Ave,Seattle,WA,98109,Lake Union,https://www.apartments.com/leeward-seattle-wa/yqyql2t/,77,74,72,70
+615,Ellie Passivhaus,320 Queen Anne Ave N,Seattle,WA,98109,Queen Anne,https://www.apartments.com/ellie-passivhaus-seattle-wa/cyc038g/,96,72,81,70
+616,Avanti,1401 Boren Ave,Seattle,WA,98101,First Hill,https://www.apartments.com/avanti-seattle-wa/s0dekb4/,99,100,66,61
+617,Center Steps,225 Roy St,Seattle,WA,98109,Lower Queen Anne,https://www.apartments.com/center-steps-seattle-wa/j2gln57/,97,79,88,68
+618,Cosmopolitan,400 NE 45th St,Seattle,WA,98105,Wallingford,https://www.apartments.com/cosmopolitan-seattle-wa/y8knpdr/,91,81,82,61
+619,Broadstone Sky,4745 40th Ave,Seattle,WA,98116,Genesee,https://www.apartments.com/broadstone-sky-seattle-wa/nhhmrdp/,97,52,55,69
+620,Metropolitan Park,601 S Washington St,Seattle,WA,98104,Chinatown,https://www.apartments.com/metropolitan-park-seattle-wa/xxyj11n/,98,100,72,63
+621,The Blake Apartments,5020 California Ave SW,Seattle,WA,98136,Junction,https://www.apartments.com/the-blake-apartments-seattle-wa/mtjmxvl/,92,51,63,74
+622,Charbern Apartment Homes,1705 Belmont Ave,Seattle,WA,98122,Capitol Hill,https://www.apartments.com/charbern-apartment-homes-seattle-wa/xhwycjn/,99,95,74,65
+623,Oakwood Residence Seattle South Lake Union,717 N Dexter Ave,Seattle,WA,98109,South Lake Union,https://www.apartments.com/oakwood-residence-seattle-south-lake-union-seattle-wa/995kg24/,88,81,88,64
+624,Cyrene,50 University St,Seattle,WA,98101,Downtown Seattle,https://www.apartments.com/cyrene-seattle-wa/ykgx3qr/,98,100,68,63
+625,Maris,4722 Fauntleroy Way SW,Seattle,WA,98116,Fairmount Park,https://www.apartments.com/maris-seattle-wa/cp18f9d/,93,52,50,68
+626,Vertex Off Broadway,802 E Thomas St,Seattle,WA,98102,Capitol Hill,https://www.apartments.com/vertex-off-broadway-seattle-wa/c5t177e/,99,80,91,66
+627,Cypress,120 Broadway,Seattle,WA,98122,First Hill,https://www.apartments.com/cypress-seattle-wa/pv15ezr/,94,100,71,67
+628,Aura West Seattle,4435 35th Ave SW,Seattle,WA,98126,Fairmount Park,https://www.apartments.com/aura-west-seattle-seattle-wa/pns15wr/,85,55,60,68
+629,East Howe Steps,1823 Eastlake Ave E,Seattle,WA,98102,Eastlake,https://www.apartments.com/east-howe-steps-seattle-wa/dgnwmfj/,78,59,88,66
+630,Garden Pointe,130 SW 112th St,Seattle,WA,98146,Highline,https://www.apartments.com/garden-pointe-seattle-wa/n3e96pq/,43,46,73,
+631,Maude Urban Living,836 NE 67th St,Seattle,WA,98115,Roosevelt,https://www.apartments.com/maude-urban-living-seattle-wa/kx2eyyc/,95,68,93,62
+632,Park South,10102 8th Ave S,Seattle,WA,98168,Southern Heights-Boulevard Park,https://www.apartments.com/park-south-seattle-wa/39gy0kf/,35,14,73,
+633,Novo Seattle,6105 Roosevelt Way NE,Seattle,WA,98115,Roosevelt,https://www.apartments.com/novo-seattle-seattle-wa/nrb0ttm/,97,68,96,64
+634,Filipino Community Village - MOVE-IN SPECIAL!,5727 37th Ave S,Seattle,WA,98118,Columbia City,https://www.apartments.com/filipino-community-village-move-in-special-seattle-wa/fndfh9t/,91,55,73,71
+635,The Accolade,4126 12th Ave NE,Seattle,WA,98105,University District,https://www.apartments.com/the-accolade-seattle-wa/7lspshx/,99,85,81,67
+636,The Mill at First Hill,1000 8th Ave,Seattle,WA,98104,First Hill,https://www.apartments.com/the-mill-at-first-hill-seattle-wa/3z5s8mg/,98,100,67,62
+637,Sedona Apartments,8500 20th Ave NE,Seattle,WA,98115,Wedgewood,https://www.apartments.com/sedona-apartments-seattle-wa/ch0j5kf/,69,52,84,70
+638,Executive Estates,1227 NE 143rd St,Seattle,WA,98125,Lake City,https://www.apartments.com/executive-estates-seattle-wa/2vnlp78/,55,46,58,75
+639,The Current,15560 Westminster Way N,Shoreline,WA,98133,Shoreline,https://www.apartments.com/the-current-shoreline-wa/s6grkf5/,85,51,80,63
